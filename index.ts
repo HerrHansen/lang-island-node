@@ -1,4 +1,5 @@
 import { de } from "./langs/de.ts";
+import { enGb } from "./langs/enGb.ts";
 import fs from "fs";
 import type { Lang } from "./types.ts";
 
@@ -13,19 +14,30 @@ function createLang(lang: Lang) {
 `;
   let graphemeNumber = 100;
 
+  // Loop through the others
+  for (let otherIndex = 0; otherIndex < lang.others.length; otherIndex++) {
+    let alias = lang.others[otherIndex].alias;
+    let grapheme = lang.others[otherIndex].grapheme;
+    fileContent += `
+    <lexeme>
+    <grapheme>${grapheme}</grapheme>
+    <alias>${alias}</alias>
+    </lexeme>
+    `;
+  }
+
   // Loop through the hundreds
   for (
     let hundredIndex = 0;
-    hundredIndex < de.hundreds.length;
+    hundredIndex < lang.hundreds.length;
     hundredIndex++
   ) {
-    
     graphemeNumber = 100 * (hundredIndex + 1);
 
-    for (let dateIndex = 0; dateIndex < de.dates.length; dateIndex++) {
-      let alias = de.hundreds[hundredIndex];
+    for (let dateIndex = 0; dateIndex < lang.dates.length; dateIndex++) {
+      let alias = lang.hundreds[hundredIndex];
 
-      alias += de.dates[dateIndex];
+      alias += lang.dates[dateIndex];
       fileContent += `
       <lexeme>
       <grapheme>${graphemeNumber}</grapheme>
@@ -34,23 +46,22 @@ function createLang(lang: Lang) {
       `;
       graphemeNumber++;
     }
-
   }
 
   // Loop through the centuries
   for (
     let centuryIndex = 0;
-    centuryIndex < de.centuries.length;
+    centuryIndex < lang.centuries.length;
     centuryIndex++
   ) {
-    for (let dateIndex = 0; dateIndex < de.dates.length; dateIndex++) {
+    for (let dateIndex = 0; dateIndex < lang.dates.length; dateIndex++) {
       let grapheme = `${10 + centuryIndex}`;
-      let alias = de.centuries[centuryIndex];
+      let alias = lang.centuries[centuryIndex];
       if (dateIndex < 10) {
         grapheme += "0";
       }
       grapheme += `${dateIndex}`;
-      alias += de.dates[dateIndex];
+      alias += lang.dates[dateIndex];
       fileContent += `
       <lexeme>
       <grapheme>${grapheme}</grapheme>
@@ -77,4 +88,6 @@ function createLang(lang: Lang) {
 }
 
 console.log("Welcome to Lang Island 🏝️");
+
 createLang(de);
+createLang(enGb);

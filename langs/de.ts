@@ -1,5 +1,15 @@
 import type { Lang } from "./../types.ts";
 
+const others = [
+  {
+    grapheme: "bei", 
+    alias: "bai",
+  },
+  {
+    grapheme: "Bei", 
+    alias: "Bai",
+  }];
+
 const hundreds = [
   "einhundert",
   "zweihundert",
@@ -130,6 +140,7 @@ const dates = [
 ];
 
 export const de: Lang = {
+  others,
   hundreds,
   centuries,
   dates,
