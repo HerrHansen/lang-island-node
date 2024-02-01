@@ -11,8 +11,25 @@ This Node.js script, written in TypeScript, automates the creation of a pronunci
 
 The output .pls files can be easily integrated with various TTS engines to improve the naturalness and clarity of spoken numbers and dates.
 
-## download .pls for German
-Here: [/]()
+This is useful e.g. for [elevenlabs.io](https://elevenlabs.io/docs/projects/overview#pronunciation-dictionaries).
+
+#### Code Example for German
+```xml
+      ...
+      <lexeme>
+      <grapheme>335</grapheme>
+      <alias>dreihundertfünfunddreißig</alias>
+      </lexeme>
+      ...
+
+      <lexeme>
+      <grapheme>1758</grapheme>
+      <alias>siebzehnhundertachtundfünfzig</alias>
+      </lexeme>
+```
+
+## download .pls
+German .pls: [/_output/de-DE.pls](https://github.com/HerrHansen/lang-island-node/blob/main/_output/de-DE.pls)
 
 
 ## Features
@@ -55,3 +72,9 @@ Together, we can make this tool useful for others TTS users.
 
 License
 This project is open source and available under the MIT License.
+
+---
+
+#### Sponsored by:
+
+[![Image Alt Text](https://audiowalker.app/wp-content/uploads/2023/10/audiowalker-logo-black-2.png)](https://audiowalker.app)
