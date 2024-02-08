@@ -11,29 +11,29 @@ const others = [
   },
 ];
 
-const nths = [
-  "ersten",
-  "zweiten",
-  "dritten",
-  "vierten",
-  "fünften",
-  "sechsten",
-  "siebten",
-  "achten",
-  "neunten",
-  "zehnten",
-  "elften",
-  "zwölften",
-  "dreizehnten",
-  "vierzehnten",
-  "fünfzehnten",
-  "sechzehnten",
-  "siebzehnten",
-  "achtzehnten",
-  "neunzehnten",
-  "zwanzigsten",
-  "einundzwanzigsten",
-];
+// const nths = [
+//   "ersten",
+//   "zweiten",
+//   "dritten",
+//   "vierten",
+//   "fünften",
+//   "sechsten",
+//   "siebten",
+//   "achten",
+//   "neunten",
+//   "zehnten",
+//   "elften",
+//   "zwölften",
+//   "dreizehnten",
+//   "vierzehnten",
+//   "fünfzehnten",
+//   "sechzehnten",
+//   "siebzehnten",
+//   "achtzehnten",
+//   "neunzehnten",
+//   "zwanzigsten",
+//   "einundzwanzigsten",
+// ];
 
 const digits = [
   "null",
@@ -268,7 +268,6 @@ const dates = [
 ];
 
 export const de: Lang = {
-  nths,
   digits,
   others,
   hundreds,

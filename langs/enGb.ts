@@ -130,7 +130,6 @@ const dates = [
 ];
 
 export const enGb: Lang = {
-  nths: [],
   others: [],
   digits: [],
   hundreds,

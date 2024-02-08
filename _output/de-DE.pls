@@ -6,111 +6,6 @@
       http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
     alphabet="ipa" xml:lang="de-DE">
 
-      <lexeme>
-      <grapheme>1.</grapheme>
-      <alias>ersten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>2.</grapheme>
-      <alias>zweiten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>3.</grapheme>
-      <alias>dritten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>4.</grapheme>
-      <alias>vierten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>5.</grapheme>
-      <alias>fünften</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>6.</grapheme>
-      <alias>sechsten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>7.</grapheme>
-      <alias>siebten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>8.</grapheme>
-      <alias>achten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>9.</grapheme>
-      <alias>neunten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>10.</grapheme>
-      <alias>zehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>11.</grapheme>
-      <alias>elften</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>12.</grapheme>
-      <alias>zwölften</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>13.</grapheme>
-      <alias>dreizehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>14.</grapheme>
-      <alias>vierzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>15.</grapheme>
-      <alias>fünfzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>16.</grapheme>
-      <alias>sechzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>17.</grapheme>
-      <alias>siebzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>18.</grapheme>
-      <alias>achtzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>19.</grapheme>
-      <alias>neunzehnten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>20.</grapheme>
-      <alias>zwanzigsten</alias>
-      </lexeme>
-      
-      <lexeme>
-      <grapheme>21.</grapheme>
-      <alias>einundzwanzigsten</alias>
-      </lexeme>
-      
     <lexeme>
     <grapheme>bei</grapheme>
     <alias>bai</alias>
@@ -122,9002 +17,9002 @@
     </lexeme>
     
       <lexeme>
-      <grapheme>0</grapheme>
-      <alias></alias>
+      <grapheme>0 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>1</grapheme>
+      <grapheme>1 </grapheme>
       <alias>eins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>2</grapheme>
+      <grapheme>2 </grapheme>
       <alias>zwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>3</grapheme>
+      <grapheme>3 </grapheme>
       <alias>drei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>4</grapheme>
+      <grapheme>4 </grapheme>
       <alias>vier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>5</grapheme>
+      <grapheme>5 </grapheme>
       <alias>fünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>6</grapheme>
+      <grapheme>6 </grapheme>
       <alias>sechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>7</grapheme>
+      <grapheme>7 </grapheme>
       <alias>sieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>8</grapheme>
+      <grapheme>8 </grapheme>
       <alias>acht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>9</grapheme>
+      <grapheme>9 </grapheme>
       <alias>neun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>10</grapheme>
+      <grapheme>10 </grapheme>
       <alias>zehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>11</grapheme>
+      <grapheme>11 </grapheme>
       <alias>elf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>12</grapheme>
+      <grapheme>12 </grapheme>
       <alias>zwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>13</grapheme>
+      <grapheme>13 </grapheme>
       <alias>dreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>14</grapheme>
+      <grapheme>14 </grapheme>
       <alias>vierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>15</grapheme>
+      <grapheme>15 </grapheme>
       <alias>fünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>16</grapheme>
+      <grapheme>16 </grapheme>
       <alias>sechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>17</grapheme>
+      <grapheme>17 </grapheme>
       <alias>siebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>18</grapheme>
+      <grapheme>18 </grapheme>
       <alias>achtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>19</grapheme>
+      <grapheme>19 </grapheme>
       <alias>neunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>20</grapheme>
+      <grapheme>20 </grapheme>
       <alias>zwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>21</grapheme>
+      <grapheme>21 </grapheme>
       <alias>einundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>22</grapheme>
+      <grapheme>22 </grapheme>
       <alias>zweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>23</grapheme>
+      <grapheme>23 </grapheme>
       <alias>dreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>24</grapheme>
+      <grapheme>24 </grapheme>
       <alias>vierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>25</grapheme>
+      <grapheme>25 </grapheme>
       <alias>fünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>26</grapheme>
+      <grapheme>26 </grapheme>
       <alias>sechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>27</grapheme>
+      <grapheme>27 </grapheme>
       <alias>siebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>28</grapheme>
+      <grapheme>28 </grapheme>
       <alias>achtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>29</grapheme>
+      <grapheme>29 </grapheme>
       <alias>neunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>30</grapheme>
+      <grapheme>30 </grapheme>
       <alias>dreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>31</grapheme>
+      <grapheme>31 </grapheme>
       <alias>einunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>32</grapheme>
+      <grapheme>32 </grapheme>
       <alias>zweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>33</grapheme>
+      <grapheme>33 </grapheme>
       <alias>dreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>34</grapheme>
+      <grapheme>34 </grapheme>
       <alias>vierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>35</grapheme>
+      <grapheme>35 </grapheme>
       <alias>fünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>36</grapheme>
+      <grapheme>36 </grapheme>
       <alias>sechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>37</grapheme>
+      <grapheme>37 </grapheme>
       <alias>siebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>38</grapheme>
+      <grapheme>38 </grapheme>
       <alias>achtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>39</grapheme>
+      <grapheme>39 </grapheme>
       <alias>neununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>40</grapheme>
+      <grapheme>40 </grapheme>
       <alias>vierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>41</grapheme>
+      <grapheme>41 </grapheme>
       <alias>einundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>42</grapheme>
+      <grapheme>42 </grapheme>
       <alias>zweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>43</grapheme>
+      <grapheme>43 </grapheme>
       <alias>dreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>44</grapheme>
+      <grapheme>44 </grapheme>
       <alias>vierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>45</grapheme>
+      <grapheme>45 </grapheme>
       <alias>fünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>46</grapheme>
+      <grapheme>46 </grapheme>
       <alias>sechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>47</grapheme>
+      <grapheme>47 </grapheme>
       <alias>siebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>48</grapheme>
+      <grapheme>48 </grapheme>
       <alias>achtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>49</grapheme>
+      <grapheme>49 </grapheme>
       <alias>neunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>50</grapheme>
+      <grapheme>50 </grapheme>
       <alias>fünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>51</grapheme>
+      <grapheme>51 </grapheme>
       <alias>einundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>52</grapheme>
+      <grapheme>52 </grapheme>
       <alias>zweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>53</grapheme>
+      <grapheme>53 </grapheme>
       <alias>dreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>54</grapheme>
+      <grapheme>54 </grapheme>
       <alias>vierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>55</grapheme>
+      <grapheme>55 </grapheme>
       <alias>fünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>56</grapheme>
+      <grapheme>56 </grapheme>
       <alias>sechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>57</grapheme>
+      <grapheme>57 </grapheme>
       <alias>siebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>58</grapheme>
+      <grapheme>58 </grapheme>
       <alias>achtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>59</grapheme>
+      <grapheme>59 </grapheme>
       <alias>neunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>60</grapheme>
+      <grapheme>60 </grapheme>
       <alias>sechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>61</grapheme>
+      <grapheme>61 </grapheme>
       <alias>einundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>62</grapheme>
+      <grapheme>62 </grapheme>
       <alias>zweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>63</grapheme>
+      <grapheme>63 </grapheme>
       <alias>dreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>64</grapheme>
+      <grapheme>64 </grapheme>
       <alias>vierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>65</grapheme>
+      <grapheme>65 </grapheme>
       <alias>fünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>66</grapheme>
+      <grapheme>66 </grapheme>
       <alias>sechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>67</grapheme>
+      <grapheme>67 </grapheme>
       <alias>siebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>68</grapheme>
+      <grapheme>68 </grapheme>
       <alias>achtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>69</grapheme>
+      <grapheme>69 </grapheme>
       <alias>neunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>70</grapheme>
+      <grapheme>70 </grapheme>
       <alias>siebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>71</grapheme>
+      <grapheme>71 </grapheme>
       <alias>einundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>72</grapheme>
+      <grapheme>72 </grapheme>
       <alias>zweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>73</grapheme>
+      <grapheme>73 </grapheme>
       <alias>dreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>74</grapheme>
+      <grapheme>74 </grapheme>
       <alias>vierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>75</grapheme>
+      <grapheme>75 </grapheme>
       <alias>fünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>76</grapheme>
+      <grapheme>76 </grapheme>
       <alias>sechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>77</grapheme>
+      <grapheme>77 </grapheme>
       <alias>siebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>78</grapheme>
+      <grapheme>78 </grapheme>
       <alias>achtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>79</grapheme>
+      <grapheme>79 </grapheme>
       <alias>neunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>80</grapheme>
+      <grapheme>80 </grapheme>
       <alias>achtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>81</grapheme>
+      <grapheme>81 </grapheme>
       <alias>einundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>82</grapheme>
+      <grapheme>82 </grapheme>
       <alias>zweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>83</grapheme>
+      <grapheme>83 </grapheme>
       <alias>dreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>84</grapheme>
+      <grapheme>84 </grapheme>
       <alias>vierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>85</grapheme>
+      <grapheme>85 </grapheme>
       <alias>fünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>86</grapheme>
+      <grapheme>86 </grapheme>
       <alias>sechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>87</grapheme>
+      <grapheme>87 </grapheme>
       <alias>siebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>88</grapheme>
+      <grapheme>88 </grapheme>
       <alias>achtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>89</grapheme>
+      <grapheme>89 </grapheme>
       <alias>neunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>90</grapheme>
+      <grapheme>90 </grapheme>
       <alias>neunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>91</grapheme>
+      <grapheme>91 </grapheme>
       <alias>einundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>92</grapheme>
+      <grapheme>92 </grapheme>
       <alias>zweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>93</grapheme>
+      <grapheme>93 </grapheme>
       <alias>dreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>94</grapheme>
+      <grapheme>94 </grapheme>
       <alias>vierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>95</grapheme>
+      <grapheme>95 </grapheme>
       <alias>fünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>96</grapheme>
+      <grapheme>96 </grapheme>
       <alias>sechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>97</grapheme>
+      <grapheme>97 </grapheme>
       <alias>siebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>98</grapheme>
+      <grapheme>98 </grapheme>
       <alias>achtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>99</grapheme>
+      <grapheme>99 </grapheme>
       <alias>neunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>100</grapheme>
-      <alias>einhundert</alias>
+      <grapheme>100 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>101</grapheme>
+      <grapheme>101 </grapheme>
       <alias>einhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>102</grapheme>
+      <grapheme>102 </grapheme>
       <alias>einhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>103</grapheme>
+      <grapheme>103 </grapheme>
       <alias>einhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>104</grapheme>
+      <grapheme>104 </grapheme>
       <alias>einhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>105</grapheme>
+      <grapheme>105 </grapheme>
       <alias>einhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>106</grapheme>
+      <grapheme>106 </grapheme>
       <alias>einhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>107</grapheme>
+      <grapheme>107 </grapheme>
       <alias>einhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>108</grapheme>
+      <grapheme>108 </grapheme>
       <alias>einhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>109</grapheme>
+      <grapheme>109 </grapheme>
       <alias>einhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>110</grapheme>
+      <grapheme>110 </grapheme>
       <alias>einhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>111</grapheme>
+      <grapheme>111 </grapheme>
       <alias>einhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>112</grapheme>
+      <grapheme>112 </grapheme>
       <alias>einhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>113</grapheme>
+      <grapheme>113 </grapheme>
       <alias>einhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>114</grapheme>
+      <grapheme>114 </grapheme>
       <alias>einhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>115</grapheme>
+      <grapheme>115 </grapheme>
       <alias>einhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>116</grapheme>
+      <grapheme>116 </grapheme>
       <alias>einhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>117</grapheme>
+      <grapheme>117 </grapheme>
       <alias>einhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>118</grapheme>
+      <grapheme>118 </grapheme>
       <alias>einhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>119</grapheme>
+      <grapheme>119 </grapheme>
       <alias>einhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>120</grapheme>
+      <grapheme>120 </grapheme>
       <alias>einhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>121</grapheme>
+      <grapheme>121 </grapheme>
       <alias>einhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>122</grapheme>
+      <grapheme>122 </grapheme>
       <alias>einhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>123</grapheme>
+      <grapheme>123 </grapheme>
       <alias>einhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>124</grapheme>
+      <grapheme>124 </grapheme>
       <alias>einhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>125</grapheme>
+      <grapheme>125 </grapheme>
       <alias>einhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>126</grapheme>
+      <grapheme>126 </grapheme>
       <alias>einhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>127</grapheme>
+      <grapheme>127 </grapheme>
       <alias>einhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>128</grapheme>
+      <grapheme>128 </grapheme>
       <alias>einhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>129</grapheme>
+      <grapheme>129 </grapheme>
       <alias>einhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>130</grapheme>
+      <grapheme>130 </grapheme>
       <alias>einhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>131</grapheme>
+      <grapheme>131 </grapheme>
       <alias>einhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>132</grapheme>
+      <grapheme>132 </grapheme>
       <alias>einhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>133</grapheme>
+      <grapheme>133 </grapheme>
       <alias>einhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>134</grapheme>
+      <grapheme>134 </grapheme>
       <alias>einhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>135</grapheme>
+      <grapheme>135 </grapheme>
       <alias>einhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>136</grapheme>
+      <grapheme>136 </grapheme>
       <alias>einhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>137</grapheme>
+      <grapheme>137 </grapheme>
       <alias>einhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>138</grapheme>
+      <grapheme>138 </grapheme>
       <alias>einhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>139</grapheme>
+      <grapheme>139 </grapheme>
       <alias>einhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>140</grapheme>
+      <grapheme>140 </grapheme>
       <alias>einhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>141</grapheme>
+      <grapheme>141 </grapheme>
       <alias>einhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>142</grapheme>
+      <grapheme>142 </grapheme>
       <alias>einhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>143</grapheme>
+      <grapheme>143 </grapheme>
       <alias>einhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>144</grapheme>
+      <grapheme>144 </grapheme>
       <alias>einhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>145</grapheme>
+      <grapheme>145 </grapheme>
       <alias>einhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>146</grapheme>
+      <grapheme>146 </grapheme>
       <alias>einhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>147</grapheme>
+      <grapheme>147 </grapheme>
       <alias>einhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>148</grapheme>
+      <grapheme>148 </grapheme>
       <alias>einhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>149</grapheme>
+      <grapheme>149 </grapheme>
       <alias>einhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>150</grapheme>
+      <grapheme>150 </grapheme>
       <alias>einhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>151</grapheme>
+      <grapheme>151 </grapheme>
       <alias>einhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>152</grapheme>
+      <grapheme>152 </grapheme>
       <alias>einhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>153</grapheme>
+      <grapheme>153 </grapheme>
       <alias>einhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>154</grapheme>
+      <grapheme>154 </grapheme>
       <alias>einhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>155</grapheme>
+      <grapheme>155 </grapheme>
       <alias>einhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>156</grapheme>
+      <grapheme>156 </grapheme>
       <alias>einhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>157</grapheme>
+      <grapheme>157 </grapheme>
       <alias>einhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>158</grapheme>
+      <grapheme>158 </grapheme>
       <alias>einhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>159</grapheme>
+      <grapheme>159 </grapheme>
       <alias>einhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>160</grapheme>
+      <grapheme>160 </grapheme>
       <alias>einhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>161</grapheme>
+      <grapheme>161 </grapheme>
       <alias>einhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>162</grapheme>
+      <grapheme>162 </grapheme>
       <alias>einhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>163</grapheme>
+      <grapheme>163 </grapheme>
       <alias>einhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>164</grapheme>
+      <grapheme>164 </grapheme>
       <alias>einhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>165</grapheme>
+      <grapheme>165 </grapheme>
       <alias>einhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>166</grapheme>
+      <grapheme>166 </grapheme>
       <alias>einhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>167</grapheme>
+      <grapheme>167 </grapheme>
       <alias>einhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>168</grapheme>
+      <grapheme>168 </grapheme>
       <alias>einhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>169</grapheme>
+      <grapheme>169 </grapheme>
       <alias>einhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>170</grapheme>
+      <grapheme>170 </grapheme>
       <alias>einhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>171</grapheme>
+      <grapheme>171 </grapheme>
       <alias>einhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>172</grapheme>
+      <grapheme>172 </grapheme>
       <alias>einhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>173</grapheme>
+      <grapheme>173 </grapheme>
       <alias>einhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>174</grapheme>
+      <grapheme>174 </grapheme>
       <alias>einhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>175</grapheme>
+      <grapheme>175 </grapheme>
       <alias>einhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>176</grapheme>
+      <grapheme>176 </grapheme>
       <alias>einhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>177</grapheme>
+      <grapheme>177 </grapheme>
       <alias>einhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>178</grapheme>
+      <grapheme>178 </grapheme>
       <alias>einhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>179</grapheme>
+      <grapheme>179 </grapheme>
       <alias>einhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>180</grapheme>
+      <grapheme>180 </grapheme>
       <alias>einhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>181</grapheme>
+      <grapheme>181 </grapheme>
       <alias>einhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>182</grapheme>
+      <grapheme>182 </grapheme>
       <alias>einhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>183</grapheme>
+      <grapheme>183 </grapheme>
       <alias>einhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>184</grapheme>
+      <grapheme>184 </grapheme>
       <alias>einhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>185</grapheme>
+      <grapheme>185 </grapheme>
       <alias>einhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>186</grapheme>
+      <grapheme>186 </grapheme>
       <alias>einhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>187</grapheme>
+      <grapheme>187 </grapheme>
       <alias>einhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>188</grapheme>
+      <grapheme>188 </grapheme>
       <alias>einhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>189</grapheme>
+      <grapheme>189 </grapheme>
       <alias>einhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>190</grapheme>
+      <grapheme>190 </grapheme>
       <alias>einhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>191</grapheme>
+      <grapheme>191 </grapheme>
       <alias>einhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>192</grapheme>
+      <grapheme>192 </grapheme>
       <alias>einhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>193</grapheme>
+      <grapheme>193 </grapheme>
       <alias>einhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>194</grapheme>
+      <grapheme>194 </grapheme>
       <alias>einhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>195</grapheme>
+      <grapheme>195 </grapheme>
       <alias>einhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>196</grapheme>
+      <grapheme>196 </grapheme>
       <alias>einhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>197</grapheme>
+      <grapheme>197 </grapheme>
       <alias>einhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>198</grapheme>
+      <grapheme>198 </grapheme>
       <alias>einhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>199</grapheme>
+      <grapheme>199 </grapheme>
       <alias>einhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>200</grapheme>
-      <alias>zweihundert</alias>
+      <grapheme>200 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>201</grapheme>
+      <grapheme>201 </grapheme>
       <alias>zweihunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>202</grapheme>
+      <grapheme>202 </grapheme>
       <alias>zweihundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>203</grapheme>
+      <grapheme>203 </grapheme>
       <alias>zweihundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>204</grapheme>
+      <grapheme>204 </grapheme>
       <alias>zweihundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>205</grapheme>
+      <grapheme>205 </grapheme>
       <alias>zweihundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>206</grapheme>
+      <grapheme>206 </grapheme>
       <alias>zweihundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>207</grapheme>
+      <grapheme>207 </grapheme>
       <alias>zweihundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>208</grapheme>
+      <grapheme>208 </grapheme>
       <alias>zweihundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>209</grapheme>
+      <grapheme>209 </grapheme>
       <alias>zweihundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>210</grapheme>
+      <grapheme>210 </grapheme>
       <alias>zweihundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>211</grapheme>
+      <grapheme>211 </grapheme>
       <alias>zweihundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>212</grapheme>
+      <grapheme>212 </grapheme>
       <alias>zweihundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>213</grapheme>
+      <grapheme>213 </grapheme>
       <alias>zweihundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>214</grapheme>
+      <grapheme>214 </grapheme>
       <alias>zweihundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>215</grapheme>
+      <grapheme>215 </grapheme>
       <alias>zweihundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>216</grapheme>
+      <grapheme>216 </grapheme>
       <alias>zweihundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>217</grapheme>
+      <grapheme>217 </grapheme>
       <alias>zweihundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>218</grapheme>
+      <grapheme>218 </grapheme>
       <alias>zweihundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>219</grapheme>
+      <grapheme>219 </grapheme>
       <alias>zweihundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>220</grapheme>
+      <grapheme>220 </grapheme>
       <alias>zweihundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>221</grapheme>
+      <grapheme>221 </grapheme>
       <alias>zweihunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>222</grapheme>
+      <grapheme>222 </grapheme>
       <alias>zweihundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>223</grapheme>
+      <grapheme>223 </grapheme>
       <alias>zweihundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>224</grapheme>
+      <grapheme>224 </grapheme>
       <alias>zweihundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>225</grapheme>
+      <grapheme>225 </grapheme>
       <alias>zweihundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>226</grapheme>
+      <grapheme>226 </grapheme>
       <alias>zweihundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>227</grapheme>
+      <grapheme>227 </grapheme>
       <alias>zweihundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>228</grapheme>
+      <grapheme>228 </grapheme>
       <alias>zweihundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>229</grapheme>
+      <grapheme>229 </grapheme>
       <alias>zweihundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>230</grapheme>
+      <grapheme>230 </grapheme>
       <alias>zweihundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>231</grapheme>
+      <grapheme>231 </grapheme>
       <alias>zweihunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>232</grapheme>
+      <grapheme>232 </grapheme>
       <alias>zweihundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>233</grapheme>
+      <grapheme>233 </grapheme>
       <alias>zweihundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>234</grapheme>
+      <grapheme>234 </grapheme>
       <alias>zweihundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>235</grapheme>
+      <grapheme>235 </grapheme>
       <alias>zweihundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>236</grapheme>
+      <grapheme>236 </grapheme>
       <alias>zweihundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>237</grapheme>
+      <grapheme>237 </grapheme>
       <alias>zweihundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>238</grapheme>
+      <grapheme>238 </grapheme>
       <alias>zweihundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>239</grapheme>
+      <grapheme>239 </grapheme>
       <alias>zweihundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>240</grapheme>
+      <grapheme>240 </grapheme>
       <alias>zweihundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>241</grapheme>
+      <grapheme>241 </grapheme>
       <alias>zweihunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>242</grapheme>
+      <grapheme>242 </grapheme>
       <alias>zweihundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>243</grapheme>
+      <grapheme>243 </grapheme>
       <alias>zweihundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>244</grapheme>
+      <grapheme>244 </grapheme>
       <alias>zweihundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>245</grapheme>
+      <grapheme>245 </grapheme>
       <alias>zweihundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>246</grapheme>
+      <grapheme>246 </grapheme>
       <alias>zweihundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>247</grapheme>
+      <grapheme>247 </grapheme>
       <alias>zweihundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>248</grapheme>
+      <grapheme>248 </grapheme>
       <alias>zweihundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>249</grapheme>
+      <grapheme>249 </grapheme>
       <alias>zweihundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>250</grapheme>
+      <grapheme>250 </grapheme>
       <alias>zweihundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>251</grapheme>
+      <grapheme>251 </grapheme>
       <alias>zweihunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>252</grapheme>
+      <grapheme>252 </grapheme>
       <alias>zweihundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>253</grapheme>
+      <grapheme>253 </grapheme>
       <alias>zweihundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>254</grapheme>
+      <grapheme>254 </grapheme>
       <alias>zweihundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>255</grapheme>
+      <grapheme>255 </grapheme>
       <alias>zweihundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>256</grapheme>
+      <grapheme>256 </grapheme>
       <alias>zweihundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>257</grapheme>
+      <grapheme>257 </grapheme>
       <alias>zweihundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>258</grapheme>
+      <grapheme>258 </grapheme>
       <alias>zweihundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>259</grapheme>
+      <grapheme>259 </grapheme>
       <alias>zweihundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>260</grapheme>
+      <grapheme>260 </grapheme>
       <alias>zweihundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>261</grapheme>
+      <grapheme>261 </grapheme>
       <alias>zweihunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>262</grapheme>
+      <grapheme>262 </grapheme>
       <alias>zweihundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>263</grapheme>
+      <grapheme>263 </grapheme>
       <alias>zweihundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>264</grapheme>
+      <grapheme>264 </grapheme>
       <alias>zweihundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>265</grapheme>
+      <grapheme>265 </grapheme>
       <alias>zweihundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>266</grapheme>
+      <grapheme>266 </grapheme>
       <alias>zweihundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>267</grapheme>
+      <grapheme>267 </grapheme>
       <alias>zweihundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>268</grapheme>
+      <grapheme>268 </grapheme>
       <alias>zweihundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>269</grapheme>
+      <grapheme>269 </grapheme>
       <alias>zweihundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>270</grapheme>
+      <grapheme>270 </grapheme>
       <alias>zweihundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>271</grapheme>
+      <grapheme>271 </grapheme>
       <alias>zweihunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>272</grapheme>
+      <grapheme>272 </grapheme>
       <alias>zweihundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>273</grapheme>
+      <grapheme>273 </grapheme>
       <alias>zweihundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>274</grapheme>
+      <grapheme>274 </grapheme>
       <alias>zweihundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>275</grapheme>
+      <grapheme>275 </grapheme>
       <alias>zweihundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>276</grapheme>
+      <grapheme>276 </grapheme>
       <alias>zweihundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>277</grapheme>
+      <grapheme>277 </grapheme>
       <alias>zweihundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>278</grapheme>
+      <grapheme>278 </grapheme>
       <alias>zweihundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>279</grapheme>
+      <grapheme>279 </grapheme>
       <alias>zweihundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>280</grapheme>
+      <grapheme>280 </grapheme>
       <alias>zweihundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>281</grapheme>
+      <grapheme>281 </grapheme>
       <alias>zweihunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>282</grapheme>
+      <grapheme>282 </grapheme>
       <alias>zweihundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>283</grapheme>
+      <grapheme>283 </grapheme>
       <alias>zweihundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>284</grapheme>
+      <grapheme>284 </grapheme>
       <alias>zweihundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>285</grapheme>
+      <grapheme>285 </grapheme>
       <alias>zweihundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>286</grapheme>
+      <grapheme>286 </grapheme>
       <alias>zweihundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>287</grapheme>
+      <grapheme>287 </grapheme>
       <alias>zweihundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>288</grapheme>
+      <grapheme>288 </grapheme>
       <alias>zweihundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>289</grapheme>
+      <grapheme>289 </grapheme>
       <alias>zweihundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>290</grapheme>
+      <grapheme>290 </grapheme>
       <alias>zweihundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>291</grapheme>
+      <grapheme>291 </grapheme>
       <alias>zweihunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>292</grapheme>
+      <grapheme>292 </grapheme>
       <alias>zweihundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>293</grapheme>
+      <grapheme>293 </grapheme>
       <alias>zweihundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>294</grapheme>
+      <grapheme>294 </grapheme>
       <alias>zweihundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>295</grapheme>
+      <grapheme>295 </grapheme>
       <alias>zweihundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>296</grapheme>
+      <grapheme>296 </grapheme>
       <alias>zweihundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>297</grapheme>
+      <grapheme>297 </grapheme>
       <alias>zweihundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>298</grapheme>
+      <grapheme>298 </grapheme>
       <alias>zweihundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>299</grapheme>
+      <grapheme>299 </grapheme>
       <alias>zweihundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>300</grapheme>
-      <alias>dreihundert</alias>
+      <grapheme>300 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>301</grapheme>
+      <grapheme>301 </grapheme>
       <alias>dreihunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>302</grapheme>
+      <grapheme>302 </grapheme>
       <alias>dreihundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>303</grapheme>
+      <grapheme>303 </grapheme>
       <alias>dreihundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>304</grapheme>
+      <grapheme>304 </grapheme>
       <alias>dreihundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>305</grapheme>
+      <grapheme>305 </grapheme>
       <alias>dreihundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>306</grapheme>
+      <grapheme>306 </grapheme>
       <alias>dreihundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>307</grapheme>
+      <grapheme>307 </grapheme>
       <alias>dreihundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>308</grapheme>
+      <grapheme>308 </grapheme>
       <alias>dreihundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>309</grapheme>
+      <grapheme>309 </grapheme>
       <alias>dreihundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>310</grapheme>
+      <grapheme>310 </grapheme>
       <alias>dreihundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>311</grapheme>
+      <grapheme>311 </grapheme>
       <alias>dreihundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>312</grapheme>
+      <grapheme>312 </grapheme>
       <alias>dreihundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>313</grapheme>
+      <grapheme>313 </grapheme>
       <alias>dreihundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>314</grapheme>
+      <grapheme>314 </grapheme>
       <alias>dreihundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>315</grapheme>
+      <grapheme>315 </grapheme>
       <alias>dreihundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>316</grapheme>
+      <grapheme>316 </grapheme>
       <alias>dreihundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>317</grapheme>
+      <grapheme>317 </grapheme>
       <alias>dreihundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>318</grapheme>
+      <grapheme>318 </grapheme>
       <alias>dreihundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>319</grapheme>
+      <grapheme>319 </grapheme>
       <alias>dreihundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>320</grapheme>
+      <grapheme>320 </grapheme>
       <alias>dreihundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>321</grapheme>
+      <grapheme>321 </grapheme>
       <alias>dreihunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>322</grapheme>
+      <grapheme>322 </grapheme>
       <alias>dreihundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>323</grapheme>
+      <grapheme>323 </grapheme>
       <alias>dreihundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>324</grapheme>
+      <grapheme>324 </grapheme>
       <alias>dreihundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>325</grapheme>
+      <grapheme>325 </grapheme>
       <alias>dreihundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>326</grapheme>
+      <grapheme>326 </grapheme>
       <alias>dreihundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>327</grapheme>
+      <grapheme>327 </grapheme>
       <alias>dreihundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>328</grapheme>
+      <grapheme>328 </grapheme>
       <alias>dreihundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>329</grapheme>
+      <grapheme>329 </grapheme>
       <alias>dreihundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>330</grapheme>
+      <grapheme>330 </grapheme>
       <alias>dreihundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>331</grapheme>
+      <grapheme>331 </grapheme>
       <alias>dreihunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>332</grapheme>
+      <grapheme>332 </grapheme>
       <alias>dreihundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>333</grapheme>
+      <grapheme>333 </grapheme>
       <alias>dreihundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>334</grapheme>
+      <grapheme>334 </grapheme>
       <alias>dreihundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>335</grapheme>
+      <grapheme>335 </grapheme>
       <alias>dreihundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>336</grapheme>
+      <grapheme>336 </grapheme>
       <alias>dreihundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>337</grapheme>
+      <grapheme>337 </grapheme>
       <alias>dreihundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>338</grapheme>
+      <grapheme>338 </grapheme>
       <alias>dreihundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>339</grapheme>
+      <grapheme>339 </grapheme>
       <alias>dreihundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>340</grapheme>
+      <grapheme>340 </grapheme>
       <alias>dreihundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>341</grapheme>
+      <grapheme>341 </grapheme>
       <alias>dreihunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>342</grapheme>
+      <grapheme>342 </grapheme>
       <alias>dreihundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>343</grapheme>
+      <grapheme>343 </grapheme>
       <alias>dreihundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>344</grapheme>
+      <grapheme>344 </grapheme>
       <alias>dreihundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>345</grapheme>
+      <grapheme>345 </grapheme>
       <alias>dreihundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>346</grapheme>
+      <grapheme>346 </grapheme>
       <alias>dreihundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>347</grapheme>
+      <grapheme>347 </grapheme>
       <alias>dreihundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>348</grapheme>
+      <grapheme>348 </grapheme>
       <alias>dreihundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>349</grapheme>
+      <grapheme>349 </grapheme>
       <alias>dreihundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>350</grapheme>
+      <grapheme>350 </grapheme>
       <alias>dreihundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>351</grapheme>
+      <grapheme>351 </grapheme>
       <alias>dreihunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>352</grapheme>
+      <grapheme>352 </grapheme>
       <alias>dreihundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>353</grapheme>
+      <grapheme>353 </grapheme>
       <alias>dreihundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>354</grapheme>
+      <grapheme>354 </grapheme>
       <alias>dreihundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>355</grapheme>
+      <grapheme>355 </grapheme>
       <alias>dreihundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>356</grapheme>
+      <grapheme>356 </grapheme>
       <alias>dreihundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>357</grapheme>
+      <grapheme>357 </grapheme>
       <alias>dreihundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>358</grapheme>
+      <grapheme>358 </grapheme>
       <alias>dreihundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>359</grapheme>
+      <grapheme>359 </grapheme>
       <alias>dreihundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>360</grapheme>
+      <grapheme>360 </grapheme>
       <alias>dreihundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>361</grapheme>
+      <grapheme>361 </grapheme>
       <alias>dreihunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>362</grapheme>
+      <grapheme>362 </grapheme>
       <alias>dreihundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>363</grapheme>
+      <grapheme>363 </grapheme>
       <alias>dreihundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>364</grapheme>
+      <grapheme>364 </grapheme>
       <alias>dreihundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>365</grapheme>
+      <grapheme>365 </grapheme>
       <alias>dreihundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>366</grapheme>
+      <grapheme>366 </grapheme>
       <alias>dreihundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>367</grapheme>
+      <grapheme>367 </grapheme>
       <alias>dreihundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>368</grapheme>
+      <grapheme>368 </grapheme>
       <alias>dreihundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>369</grapheme>
+      <grapheme>369 </grapheme>
       <alias>dreihundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>370</grapheme>
+      <grapheme>370 </grapheme>
       <alias>dreihundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>371</grapheme>
+      <grapheme>371 </grapheme>
       <alias>dreihunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>372</grapheme>
+      <grapheme>372 </grapheme>
       <alias>dreihundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>373</grapheme>
+      <grapheme>373 </grapheme>
       <alias>dreihundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>374</grapheme>
+      <grapheme>374 </grapheme>
       <alias>dreihundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>375</grapheme>
+      <grapheme>375 </grapheme>
       <alias>dreihundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>376</grapheme>
+      <grapheme>376 </grapheme>
       <alias>dreihundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>377</grapheme>
+      <grapheme>377 </grapheme>
       <alias>dreihundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>378</grapheme>
+      <grapheme>378 </grapheme>
       <alias>dreihundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>379</grapheme>
+      <grapheme>379 </grapheme>
       <alias>dreihundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>380</grapheme>
+      <grapheme>380 </grapheme>
       <alias>dreihundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>381</grapheme>
+      <grapheme>381 </grapheme>
       <alias>dreihunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>382</grapheme>
+      <grapheme>382 </grapheme>
       <alias>dreihundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>383</grapheme>
+      <grapheme>383 </grapheme>
       <alias>dreihundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>384</grapheme>
+      <grapheme>384 </grapheme>
       <alias>dreihundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>385</grapheme>
+      <grapheme>385 </grapheme>
       <alias>dreihundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>386</grapheme>
+      <grapheme>386 </grapheme>
       <alias>dreihundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>387</grapheme>
+      <grapheme>387 </grapheme>
       <alias>dreihundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>388</grapheme>
+      <grapheme>388 </grapheme>
       <alias>dreihundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>389</grapheme>
+      <grapheme>389 </grapheme>
       <alias>dreihundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>390</grapheme>
+      <grapheme>390 </grapheme>
       <alias>dreihundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>391</grapheme>
+      <grapheme>391 </grapheme>
       <alias>dreihunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>392</grapheme>
+      <grapheme>392 </grapheme>
       <alias>dreihundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>393</grapheme>
+      <grapheme>393 </grapheme>
       <alias>dreihundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>394</grapheme>
+      <grapheme>394 </grapheme>
       <alias>dreihundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>395</grapheme>
+      <grapheme>395 </grapheme>
       <alias>dreihundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>396</grapheme>
+      <grapheme>396 </grapheme>
       <alias>dreihundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>397</grapheme>
+      <grapheme>397 </grapheme>
       <alias>dreihundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>398</grapheme>
+      <grapheme>398 </grapheme>
       <alias>dreihundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>399</grapheme>
+      <grapheme>399 </grapheme>
       <alias>dreihundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>400</grapheme>
-      <alias>vierhundert</alias>
+      <grapheme>400 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>401</grapheme>
+      <grapheme>401 </grapheme>
       <alias>vierhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>402</grapheme>
+      <grapheme>402 </grapheme>
       <alias>vierhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>403</grapheme>
+      <grapheme>403 </grapheme>
       <alias>vierhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>404</grapheme>
+      <grapheme>404 </grapheme>
       <alias>vierhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>405</grapheme>
+      <grapheme>405 </grapheme>
       <alias>vierhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>406</grapheme>
+      <grapheme>406 </grapheme>
       <alias>vierhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>407</grapheme>
+      <grapheme>407 </grapheme>
       <alias>vierhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>408</grapheme>
+      <grapheme>408 </grapheme>
       <alias>vierhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>409</grapheme>
+      <grapheme>409 </grapheme>
       <alias>vierhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>410</grapheme>
+      <grapheme>410 </grapheme>
       <alias>vierhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>411</grapheme>
+      <grapheme>411 </grapheme>
       <alias>vierhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>412</grapheme>
+      <grapheme>412 </grapheme>
       <alias>vierhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>413</grapheme>
+      <grapheme>413 </grapheme>
       <alias>vierhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>414</grapheme>
+      <grapheme>414 </grapheme>
       <alias>vierhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>415</grapheme>
+      <grapheme>415 </grapheme>
       <alias>vierhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>416</grapheme>
+      <grapheme>416 </grapheme>
       <alias>vierhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>417</grapheme>
+      <grapheme>417 </grapheme>
       <alias>vierhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>418</grapheme>
+      <grapheme>418 </grapheme>
       <alias>vierhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>419</grapheme>
+      <grapheme>419 </grapheme>
       <alias>vierhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>420</grapheme>
+      <grapheme>420 </grapheme>
       <alias>vierhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>421</grapheme>
+      <grapheme>421 </grapheme>
       <alias>vierhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>422</grapheme>
+      <grapheme>422 </grapheme>
       <alias>vierhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>423</grapheme>
+      <grapheme>423 </grapheme>
       <alias>vierhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>424</grapheme>
+      <grapheme>424 </grapheme>
       <alias>vierhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>425</grapheme>
+      <grapheme>425 </grapheme>
       <alias>vierhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>426</grapheme>
+      <grapheme>426 </grapheme>
       <alias>vierhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>427</grapheme>
+      <grapheme>427 </grapheme>
       <alias>vierhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>428</grapheme>
+      <grapheme>428 </grapheme>
       <alias>vierhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>429</grapheme>
+      <grapheme>429 </grapheme>
       <alias>vierhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>430</grapheme>
+      <grapheme>430 </grapheme>
       <alias>vierhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>431</grapheme>
+      <grapheme>431 </grapheme>
       <alias>vierhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>432</grapheme>
+      <grapheme>432 </grapheme>
       <alias>vierhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>433</grapheme>
+      <grapheme>433 </grapheme>
       <alias>vierhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>434</grapheme>
+      <grapheme>434 </grapheme>
       <alias>vierhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>435</grapheme>
+      <grapheme>435 </grapheme>
       <alias>vierhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>436</grapheme>
+      <grapheme>436 </grapheme>
       <alias>vierhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>437</grapheme>
+      <grapheme>437 </grapheme>
       <alias>vierhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>438</grapheme>
+      <grapheme>438 </grapheme>
       <alias>vierhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>439</grapheme>
+      <grapheme>439 </grapheme>
       <alias>vierhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>440</grapheme>
+      <grapheme>440 </grapheme>
       <alias>vierhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>441</grapheme>
+      <grapheme>441 </grapheme>
       <alias>vierhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>442</grapheme>
+      <grapheme>442 </grapheme>
       <alias>vierhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>443</grapheme>
+      <grapheme>443 </grapheme>
       <alias>vierhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>444</grapheme>
+      <grapheme>444 </grapheme>
       <alias>vierhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>445</grapheme>
+      <grapheme>445 </grapheme>
       <alias>vierhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>446</grapheme>
+      <grapheme>446 </grapheme>
       <alias>vierhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>447</grapheme>
+      <grapheme>447 </grapheme>
       <alias>vierhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>448</grapheme>
+      <grapheme>448 </grapheme>
       <alias>vierhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>449</grapheme>
+      <grapheme>449 </grapheme>
       <alias>vierhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>450</grapheme>
+      <grapheme>450 </grapheme>
       <alias>vierhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>451</grapheme>
+      <grapheme>451 </grapheme>
       <alias>vierhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>452</grapheme>
+      <grapheme>452 </grapheme>
       <alias>vierhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>453</grapheme>
+      <grapheme>453 </grapheme>
       <alias>vierhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>454</grapheme>
+      <grapheme>454 </grapheme>
       <alias>vierhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>455</grapheme>
+      <grapheme>455 </grapheme>
       <alias>vierhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>456</grapheme>
+      <grapheme>456 </grapheme>
       <alias>vierhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>457</grapheme>
+      <grapheme>457 </grapheme>
       <alias>vierhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>458</grapheme>
+      <grapheme>458 </grapheme>
       <alias>vierhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>459</grapheme>
+      <grapheme>459 </grapheme>
       <alias>vierhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>460</grapheme>
+      <grapheme>460 </grapheme>
       <alias>vierhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>461</grapheme>
+      <grapheme>461 </grapheme>
       <alias>vierhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>462</grapheme>
+      <grapheme>462 </grapheme>
       <alias>vierhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>463</grapheme>
+      <grapheme>463 </grapheme>
       <alias>vierhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>464</grapheme>
+      <grapheme>464 </grapheme>
       <alias>vierhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>465</grapheme>
+      <grapheme>465 </grapheme>
       <alias>vierhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>466</grapheme>
+      <grapheme>466 </grapheme>
       <alias>vierhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>467</grapheme>
+      <grapheme>467 </grapheme>
       <alias>vierhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>468</grapheme>
+      <grapheme>468 </grapheme>
       <alias>vierhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>469</grapheme>
+      <grapheme>469 </grapheme>
       <alias>vierhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>470</grapheme>
+      <grapheme>470 </grapheme>
       <alias>vierhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>471</grapheme>
+      <grapheme>471 </grapheme>
       <alias>vierhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>472</grapheme>
+      <grapheme>472 </grapheme>
       <alias>vierhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>473</grapheme>
+      <grapheme>473 </grapheme>
       <alias>vierhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>474</grapheme>
+      <grapheme>474 </grapheme>
       <alias>vierhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>475</grapheme>
+      <grapheme>475 </grapheme>
       <alias>vierhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>476</grapheme>
+      <grapheme>476 </grapheme>
       <alias>vierhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>477</grapheme>
+      <grapheme>477 </grapheme>
       <alias>vierhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>478</grapheme>
+      <grapheme>478 </grapheme>
       <alias>vierhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>479</grapheme>
+      <grapheme>479 </grapheme>
       <alias>vierhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>480</grapheme>
+      <grapheme>480 </grapheme>
       <alias>vierhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>481</grapheme>
+      <grapheme>481 </grapheme>
       <alias>vierhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>482</grapheme>
+      <grapheme>482 </grapheme>
       <alias>vierhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>483</grapheme>
+      <grapheme>483 </grapheme>
       <alias>vierhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>484</grapheme>
+      <grapheme>484 </grapheme>
       <alias>vierhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>485</grapheme>
+      <grapheme>485 </grapheme>
       <alias>vierhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>486</grapheme>
+      <grapheme>486 </grapheme>
       <alias>vierhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>487</grapheme>
+      <grapheme>487 </grapheme>
       <alias>vierhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>488</grapheme>
+      <grapheme>488 </grapheme>
       <alias>vierhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>489</grapheme>
+      <grapheme>489 </grapheme>
       <alias>vierhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>490</grapheme>
+      <grapheme>490 </grapheme>
       <alias>vierhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>491</grapheme>
+      <grapheme>491 </grapheme>
       <alias>vierhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>492</grapheme>
+      <grapheme>492 </grapheme>
       <alias>vierhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>493</grapheme>
+      <grapheme>493 </grapheme>
       <alias>vierhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>494</grapheme>
+      <grapheme>494 </grapheme>
       <alias>vierhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>495</grapheme>
+      <grapheme>495 </grapheme>
       <alias>vierhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>496</grapheme>
+      <grapheme>496 </grapheme>
       <alias>vierhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>497</grapheme>
+      <grapheme>497 </grapheme>
       <alias>vierhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>498</grapheme>
+      <grapheme>498 </grapheme>
       <alias>vierhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>499</grapheme>
+      <grapheme>499 </grapheme>
       <alias>vierhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>500</grapheme>
-      <alias>fünfhundert</alias>
+      <grapheme>500 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>501</grapheme>
+      <grapheme>501 </grapheme>
       <alias>fünfhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>502</grapheme>
+      <grapheme>502 </grapheme>
       <alias>fünfhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>503</grapheme>
+      <grapheme>503 </grapheme>
       <alias>fünfhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>504</grapheme>
+      <grapheme>504 </grapheme>
       <alias>fünfhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>505</grapheme>
+      <grapheme>505 </grapheme>
       <alias>fünfhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>506</grapheme>
+      <grapheme>506 </grapheme>
       <alias>fünfhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>507</grapheme>
+      <grapheme>507 </grapheme>
       <alias>fünfhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>508</grapheme>
+      <grapheme>508 </grapheme>
       <alias>fünfhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>509</grapheme>
+      <grapheme>509 </grapheme>
       <alias>fünfhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>510</grapheme>
+      <grapheme>510 </grapheme>
       <alias>fünfhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>511</grapheme>
+      <grapheme>511 </grapheme>
       <alias>fünfhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>512</grapheme>
+      <grapheme>512 </grapheme>
       <alias>fünfhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>513</grapheme>
+      <grapheme>513 </grapheme>
       <alias>fünfhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>514</grapheme>
+      <grapheme>514 </grapheme>
       <alias>fünfhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>515</grapheme>
+      <grapheme>515 </grapheme>
       <alias>fünfhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>516</grapheme>
+      <grapheme>516 </grapheme>
       <alias>fünfhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>517</grapheme>
+      <grapheme>517 </grapheme>
       <alias>fünfhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>518</grapheme>
+      <grapheme>518 </grapheme>
       <alias>fünfhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>519</grapheme>
+      <grapheme>519 </grapheme>
       <alias>fünfhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>520</grapheme>
+      <grapheme>520 </grapheme>
       <alias>fünfhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>521</grapheme>
+      <grapheme>521 </grapheme>
       <alias>fünfhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>522</grapheme>
+      <grapheme>522 </grapheme>
       <alias>fünfhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>523</grapheme>
+      <grapheme>523 </grapheme>
       <alias>fünfhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>524</grapheme>
+      <grapheme>524 </grapheme>
       <alias>fünfhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>525</grapheme>
+      <grapheme>525 </grapheme>
       <alias>fünfhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>526</grapheme>
+      <grapheme>526 </grapheme>
       <alias>fünfhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>527</grapheme>
+      <grapheme>527 </grapheme>
       <alias>fünfhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>528</grapheme>
+      <grapheme>528 </grapheme>
       <alias>fünfhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>529</grapheme>
+      <grapheme>529 </grapheme>
       <alias>fünfhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>530</grapheme>
+      <grapheme>530 </grapheme>
       <alias>fünfhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>531</grapheme>
+      <grapheme>531 </grapheme>
       <alias>fünfhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>532</grapheme>
+      <grapheme>532 </grapheme>
       <alias>fünfhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>533</grapheme>
+      <grapheme>533 </grapheme>
       <alias>fünfhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>534</grapheme>
+      <grapheme>534 </grapheme>
       <alias>fünfhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>535</grapheme>
+      <grapheme>535 </grapheme>
       <alias>fünfhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>536</grapheme>
+      <grapheme>536 </grapheme>
       <alias>fünfhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>537</grapheme>
+      <grapheme>537 </grapheme>
       <alias>fünfhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>538</grapheme>
+      <grapheme>538 </grapheme>
       <alias>fünfhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>539</grapheme>
+      <grapheme>539 </grapheme>
       <alias>fünfhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>540</grapheme>
+      <grapheme>540 </grapheme>
       <alias>fünfhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>541</grapheme>
+      <grapheme>541 </grapheme>
       <alias>fünfhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>542</grapheme>
+      <grapheme>542 </grapheme>
       <alias>fünfhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>543</grapheme>
+      <grapheme>543 </grapheme>
       <alias>fünfhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>544</grapheme>
+      <grapheme>544 </grapheme>
       <alias>fünfhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>545</grapheme>
+      <grapheme>545 </grapheme>
       <alias>fünfhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>546</grapheme>
+      <grapheme>546 </grapheme>
       <alias>fünfhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>547</grapheme>
+      <grapheme>547 </grapheme>
       <alias>fünfhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>548</grapheme>
+      <grapheme>548 </grapheme>
       <alias>fünfhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>549</grapheme>
+      <grapheme>549 </grapheme>
       <alias>fünfhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>550</grapheme>
+      <grapheme>550 </grapheme>
       <alias>fünfhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>551</grapheme>
+      <grapheme>551 </grapheme>
       <alias>fünfhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>552</grapheme>
+      <grapheme>552 </grapheme>
       <alias>fünfhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>553</grapheme>
+      <grapheme>553 </grapheme>
       <alias>fünfhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>554</grapheme>
+      <grapheme>554 </grapheme>
       <alias>fünfhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>555</grapheme>
+      <grapheme>555 </grapheme>
       <alias>fünfhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>556</grapheme>
+      <grapheme>556 </grapheme>
       <alias>fünfhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>557</grapheme>
+      <grapheme>557 </grapheme>
       <alias>fünfhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>558</grapheme>
+      <grapheme>558 </grapheme>
       <alias>fünfhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>559</grapheme>
+      <grapheme>559 </grapheme>
       <alias>fünfhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>560</grapheme>
+      <grapheme>560 </grapheme>
       <alias>fünfhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>561</grapheme>
+      <grapheme>561 </grapheme>
       <alias>fünfhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>562</grapheme>
+      <grapheme>562 </grapheme>
       <alias>fünfhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>563</grapheme>
+      <grapheme>563 </grapheme>
       <alias>fünfhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>564</grapheme>
+      <grapheme>564 </grapheme>
       <alias>fünfhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>565</grapheme>
+      <grapheme>565 </grapheme>
       <alias>fünfhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>566</grapheme>
+      <grapheme>566 </grapheme>
       <alias>fünfhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>567</grapheme>
+      <grapheme>567 </grapheme>
       <alias>fünfhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>568</grapheme>
+      <grapheme>568 </grapheme>
       <alias>fünfhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>569</grapheme>
+      <grapheme>569 </grapheme>
       <alias>fünfhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>570</grapheme>
+      <grapheme>570 </grapheme>
       <alias>fünfhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>571</grapheme>
+      <grapheme>571 </grapheme>
       <alias>fünfhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>572</grapheme>
+      <grapheme>572 </grapheme>
       <alias>fünfhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>573</grapheme>
+      <grapheme>573 </grapheme>
       <alias>fünfhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>574</grapheme>
+      <grapheme>574 </grapheme>
       <alias>fünfhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>575</grapheme>
+      <grapheme>575 </grapheme>
       <alias>fünfhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>576</grapheme>
+      <grapheme>576 </grapheme>
       <alias>fünfhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>577</grapheme>
+      <grapheme>577 </grapheme>
       <alias>fünfhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>578</grapheme>
+      <grapheme>578 </grapheme>
       <alias>fünfhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>579</grapheme>
+      <grapheme>579 </grapheme>
       <alias>fünfhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>580</grapheme>
+      <grapheme>580 </grapheme>
       <alias>fünfhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>581</grapheme>
+      <grapheme>581 </grapheme>
       <alias>fünfhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>582</grapheme>
+      <grapheme>582 </grapheme>
       <alias>fünfhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>583</grapheme>
+      <grapheme>583 </grapheme>
       <alias>fünfhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>584</grapheme>
+      <grapheme>584 </grapheme>
       <alias>fünfhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>585</grapheme>
+      <grapheme>585 </grapheme>
       <alias>fünfhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>586</grapheme>
+      <grapheme>586 </grapheme>
       <alias>fünfhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>587</grapheme>
+      <grapheme>587 </grapheme>
       <alias>fünfhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>588</grapheme>
+      <grapheme>588 </grapheme>
       <alias>fünfhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>589</grapheme>
+      <grapheme>589 </grapheme>
       <alias>fünfhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>590</grapheme>
+      <grapheme>590 </grapheme>
       <alias>fünfhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>591</grapheme>
+      <grapheme>591 </grapheme>
       <alias>fünfhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>592</grapheme>
+      <grapheme>592 </grapheme>
       <alias>fünfhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>593</grapheme>
+      <grapheme>593 </grapheme>
       <alias>fünfhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>594</grapheme>
+      <grapheme>594 </grapheme>
       <alias>fünfhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>595</grapheme>
+      <grapheme>595 </grapheme>
       <alias>fünfhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>596</grapheme>
+      <grapheme>596 </grapheme>
       <alias>fünfhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>597</grapheme>
+      <grapheme>597 </grapheme>
       <alias>fünfhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>598</grapheme>
+      <grapheme>598 </grapheme>
       <alias>fünfhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>599</grapheme>
+      <grapheme>599 </grapheme>
       <alias>fünfhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>600</grapheme>
-      <alias>sechshundert</alias>
+      <grapheme>600 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>601</grapheme>
+      <grapheme>601 </grapheme>
       <alias>sechshunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>602</grapheme>
+      <grapheme>602 </grapheme>
       <alias>sechshundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>603</grapheme>
+      <grapheme>603 </grapheme>
       <alias>sechshundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>604</grapheme>
+      <grapheme>604 </grapheme>
       <alias>sechshundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>605</grapheme>
+      <grapheme>605 </grapheme>
       <alias>sechshundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>606</grapheme>
+      <grapheme>606 </grapheme>
       <alias>sechshundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>607</grapheme>
+      <grapheme>607 </grapheme>
       <alias>sechshundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>608</grapheme>
+      <grapheme>608 </grapheme>
       <alias>sechshundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>609</grapheme>
+      <grapheme>609 </grapheme>
       <alias>sechshundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>610</grapheme>
+      <grapheme>610 </grapheme>
       <alias>sechshundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>611</grapheme>
+      <grapheme>611 </grapheme>
       <alias>sechshundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>612</grapheme>
+      <grapheme>612 </grapheme>
       <alias>sechshundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>613</grapheme>
+      <grapheme>613 </grapheme>
       <alias>sechshundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>614</grapheme>
+      <grapheme>614 </grapheme>
       <alias>sechshundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>615</grapheme>
+      <grapheme>615 </grapheme>
       <alias>sechshundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>616</grapheme>
+      <grapheme>616 </grapheme>
       <alias>sechshundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>617</grapheme>
+      <grapheme>617 </grapheme>
       <alias>sechshundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>618</grapheme>
+      <grapheme>618 </grapheme>
       <alias>sechshundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>619</grapheme>
+      <grapheme>619 </grapheme>
       <alias>sechshundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>620</grapheme>
+      <grapheme>620 </grapheme>
       <alias>sechshundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>621</grapheme>
+      <grapheme>621 </grapheme>
       <alias>sechshunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>622</grapheme>
+      <grapheme>622 </grapheme>
       <alias>sechshundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>623</grapheme>
+      <grapheme>623 </grapheme>
       <alias>sechshundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>624</grapheme>
+      <grapheme>624 </grapheme>
       <alias>sechshundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>625</grapheme>
+      <grapheme>625 </grapheme>
       <alias>sechshundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>626</grapheme>
+      <grapheme>626 </grapheme>
       <alias>sechshundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>627</grapheme>
+      <grapheme>627 </grapheme>
       <alias>sechshundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>628</grapheme>
+      <grapheme>628 </grapheme>
       <alias>sechshundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>629</grapheme>
+      <grapheme>629 </grapheme>
       <alias>sechshundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>630</grapheme>
+      <grapheme>630 </grapheme>
       <alias>sechshundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>631</grapheme>
+      <grapheme>631 </grapheme>
       <alias>sechshunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>632</grapheme>
+      <grapheme>632 </grapheme>
       <alias>sechshundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>633</grapheme>
+      <grapheme>633 </grapheme>
       <alias>sechshundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>634</grapheme>
+      <grapheme>634 </grapheme>
       <alias>sechshundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>635</grapheme>
+      <grapheme>635 </grapheme>
       <alias>sechshundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>636</grapheme>
+      <grapheme>636 </grapheme>
       <alias>sechshundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>637</grapheme>
+      <grapheme>637 </grapheme>
       <alias>sechshundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>638</grapheme>
+      <grapheme>638 </grapheme>
       <alias>sechshundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>639</grapheme>
+      <grapheme>639 </grapheme>
       <alias>sechshundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>640</grapheme>
+      <grapheme>640 </grapheme>
       <alias>sechshundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>641</grapheme>
+      <grapheme>641 </grapheme>
       <alias>sechshunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>642</grapheme>
+      <grapheme>642 </grapheme>
       <alias>sechshundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>643</grapheme>
+      <grapheme>643 </grapheme>
       <alias>sechshundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>644</grapheme>
+      <grapheme>644 </grapheme>
       <alias>sechshundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>645</grapheme>
+      <grapheme>645 </grapheme>
       <alias>sechshundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>646</grapheme>
+      <grapheme>646 </grapheme>
       <alias>sechshundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>647</grapheme>
+      <grapheme>647 </grapheme>
       <alias>sechshundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>648</grapheme>
+      <grapheme>648 </grapheme>
       <alias>sechshundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>649</grapheme>
+      <grapheme>649 </grapheme>
       <alias>sechshundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>650</grapheme>
+      <grapheme>650 </grapheme>
       <alias>sechshundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>651</grapheme>
+      <grapheme>651 </grapheme>
       <alias>sechshunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>652</grapheme>
+      <grapheme>652 </grapheme>
       <alias>sechshundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>653</grapheme>
+      <grapheme>653 </grapheme>
       <alias>sechshundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>654</grapheme>
+      <grapheme>654 </grapheme>
       <alias>sechshundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>655</grapheme>
+      <grapheme>655 </grapheme>
       <alias>sechshundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>656</grapheme>
+      <grapheme>656 </grapheme>
       <alias>sechshundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>657</grapheme>
+      <grapheme>657 </grapheme>
       <alias>sechshundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>658</grapheme>
+      <grapheme>658 </grapheme>
       <alias>sechshundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>659</grapheme>
+      <grapheme>659 </grapheme>
       <alias>sechshundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>660</grapheme>
+      <grapheme>660 </grapheme>
       <alias>sechshundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>661</grapheme>
+      <grapheme>661 </grapheme>
       <alias>sechshunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>662</grapheme>
+      <grapheme>662 </grapheme>
       <alias>sechshundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>663</grapheme>
+      <grapheme>663 </grapheme>
       <alias>sechshundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>664</grapheme>
+      <grapheme>664 </grapheme>
       <alias>sechshundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>665</grapheme>
+      <grapheme>665 </grapheme>
       <alias>sechshundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>666</grapheme>
+      <grapheme>666 </grapheme>
       <alias>sechshundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>667</grapheme>
+      <grapheme>667 </grapheme>
       <alias>sechshundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>668</grapheme>
+      <grapheme>668 </grapheme>
       <alias>sechshundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>669</grapheme>
+      <grapheme>669 </grapheme>
       <alias>sechshundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>670</grapheme>
+      <grapheme>670 </grapheme>
       <alias>sechshundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>671</grapheme>
+      <grapheme>671 </grapheme>
       <alias>sechshunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>672</grapheme>
+      <grapheme>672 </grapheme>
       <alias>sechshundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>673</grapheme>
+      <grapheme>673 </grapheme>
       <alias>sechshundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>674</grapheme>
+      <grapheme>674 </grapheme>
       <alias>sechshundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>675</grapheme>
+      <grapheme>675 </grapheme>
       <alias>sechshundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>676</grapheme>
+      <grapheme>676 </grapheme>
       <alias>sechshundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>677</grapheme>
+      <grapheme>677 </grapheme>
       <alias>sechshundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>678</grapheme>
+      <grapheme>678 </grapheme>
       <alias>sechshundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>679</grapheme>
+      <grapheme>679 </grapheme>
       <alias>sechshundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>680</grapheme>
+      <grapheme>680 </grapheme>
       <alias>sechshundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>681</grapheme>
+      <grapheme>681 </grapheme>
       <alias>sechshunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>682</grapheme>
+      <grapheme>682 </grapheme>
       <alias>sechshundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>683</grapheme>
+      <grapheme>683 </grapheme>
       <alias>sechshundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>684</grapheme>
+      <grapheme>684 </grapheme>
       <alias>sechshundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>685</grapheme>
+      <grapheme>685 </grapheme>
       <alias>sechshundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>686</grapheme>
+      <grapheme>686 </grapheme>
       <alias>sechshundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>687</grapheme>
+      <grapheme>687 </grapheme>
       <alias>sechshundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>688</grapheme>
+      <grapheme>688 </grapheme>
       <alias>sechshundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>689</grapheme>
+      <grapheme>689 </grapheme>
       <alias>sechshundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>690</grapheme>
+      <grapheme>690 </grapheme>
       <alias>sechshundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>691</grapheme>
+      <grapheme>691 </grapheme>
       <alias>sechshunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>692</grapheme>
+      <grapheme>692 </grapheme>
       <alias>sechshundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>693</grapheme>
+      <grapheme>693 </grapheme>
       <alias>sechshundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>694</grapheme>
+      <grapheme>694 </grapheme>
       <alias>sechshundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>695</grapheme>
+      <grapheme>695 </grapheme>
       <alias>sechshundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>696</grapheme>
+      <grapheme>696 </grapheme>
       <alias>sechshundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>697</grapheme>
+      <grapheme>697 </grapheme>
       <alias>sechshundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>698</grapheme>
+      <grapheme>698 </grapheme>
       <alias>sechshundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>699</grapheme>
+      <grapheme>699 </grapheme>
       <alias>sechshundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>700</grapheme>
-      <alias>siebenhundert</alias>
+      <grapheme>700 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>701</grapheme>
+      <grapheme>701 </grapheme>
       <alias>siebenhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>702</grapheme>
+      <grapheme>702 </grapheme>
       <alias>siebenhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>703</grapheme>
+      <grapheme>703 </grapheme>
       <alias>siebenhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>704</grapheme>
+      <grapheme>704 </grapheme>
       <alias>siebenhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>705</grapheme>
+      <grapheme>705 </grapheme>
       <alias>siebenhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>706</grapheme>
+      <grapheme>706 </grapheme>
       <alias>siebenhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>707</grapheme>
+      <grapheme>707 </grapheme>
       <alias>siebenhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>708</grapheme>
+      <grapheme>708 </grapheme>
       <alias>siebenhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>709</grapheme>
+      <grapheme>709 </grapheme>
       <alias>siebenhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>710</grapheme>
+      <grapheme>710 </grapheme>
       <alias>siebenhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>711</grapheme>
+      <grapheme>711 </grapheme>
       <alias>siebenhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>712</grapheme>
+      <grapheme>712 </grapheme>
       <alias>siebenhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>713</grapheme>
+      <grapheme>713 </grapheme>
       <alias>siebenhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>714</grapheme>
+      <grapheme>714 </grapheme>
       <alias>siebenhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>715</grapheme>
+      <grapheme>715 </grapheme>
       <alias>siebenhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>716</grapheme>
+      <grapheme>716 </grapheme>
       <alias>siebenhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>717</grapheme>
+      <grapheme>717 </grapheme>
       <alias>siebenhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>718</grapheme>
+      <grapheme>718 </grapheme>
       <alias>siebenhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>719</grapheme>
+      <grapheme>719 </grapheme>
       <alias>siebenhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>720</grapheme>
+      <grapheme>720 </grapheme>
       <alias>siebenhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>721</grapheme>
+      <grapheme>721 </grapheme>
       <alias>siebenhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>722</grapheme>
+      <grapheme>722 </grapheme>
       <alias>siebenhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>723</grapheme>
+      <grapheme>723 </grapheme>
       <alias>siebenhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>724</grapheme>
+      <grapheme>724 </grapheme>
       <alias>siebenhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>725</grapheme>
+      <grapheme>725 </grapheme>
       <alias>siebenhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>726</grapheme>
+      <grapheme>726 </grapheme>
       <alias>siebenhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>727</grapheme>
+      <grapheme>727 </grapheme>
       <alias>siebenhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>728</grapheme>
+      <grapheme>728 </grapheme>
       <alias>siebenhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>729</grapheme>
+      <grapheme>729 </grapheme>
       <alias>siebenhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>730</grapheme>
+      <grapheme>730 </grapheme>
       <alias>siebenhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>731</grapheme>
+      <grapheme>731 </grapheme>
       <alias>siebenhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>732</grapheme>
+      <grapheme>732 </grapheme>
       <alias>siebenhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>733</grapheme>
+      <grapheme>733 </grapheme>
       <alias>siebenhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>734</grapheme>
+      <grapheme>734 </grapheme>
       <alias>siebenhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>735</grapheme>
+      <grapheme>735 </grapheme>
       <alias>siebenhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>736</grapheme>
+      <grapheme>736 </grapheme>
       <alias>siebenhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>737</grapheme>
+      <grapheme>737 </grapheme>
       <alias>siebenhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>738</grapheme>
+      <grapheme>738 </grapheme>
       <alias>siebenhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>739</grapheme>
+      <grapheme>739 </grapheme>
       <alias>siebenhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>740</grapheme>
+      <grapheme>740 </grapheme>
       <alias>siebenhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>741</grapheme>
+      <grapheme>741 </grapheme>
       <alias>siebenhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>742</grapheme>
+      <grapheme>742 </grapheme>
       <alias>siebenhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>743</grapheme>
+      <grapheme>743 </grapheme>
       <alias>siebenhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>744</grapheme>
+      <grapheme>744 </grapheme>
       <alias>siebenhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>745</grapheme>
+      <grapheme>745 </grapheme>
       <alias>siebenhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>746</grapheme>
+      <grapheme>746 </grapheme>
       <alias>siebenhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>747</grapheme>
+      <grapheme>747 </grapheme>
       <alias>siebenhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>748</grapheme>
+      <grapheme>748 </grapheme>
       <alias>siebenhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>749</grapheme>
+      <grapheme>749 </grapheme>
       <alias>siebenhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>750</grapheme>
+      <grapheme>750 </grapheme>
       <alias>siebenhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>751</grapheme>
+      <grapheme>751 </grapheme>
       <alias>siebenhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>752</grapheme>
+      <grapheme>752 </grapheme>
       <alias>siebenhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>753</grapheme>
+      <grapheme>753 </grapheme>
       <alias>siebenhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>754</grapheme>
+      <grapheme>754 </grapheme>
       <alias>siebenhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>755</grapheme>
+      <grapheme>755 </grapheme>
       <alias>siebenhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>756</grapheme>
+      <grapheme>756 </grapheme>
       <alias>siebenhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>757</grapheme>
+      <grapheme>757 </grapheme>
       <alias>siebenhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>758</grapheme>
+      <grapheme>758 </grapheme>
       <alias>siebenhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>759</grapheme>
+      <grapheme>759 </grapheme>
       <alias>siebenhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>760</grapheme>
+      <grapheme>760 </grapheme>
       <alias>siebenhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>761</grapheme>
+      <grapheme>761 </grapheme>
       <alias>siebenhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>762</grapheme>
+      <grapheme>762 </grapheme>
       <alias>siebenhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>763</grapheme>
+      <grapheme>763 </grapheme>
       <alias>siebenhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>764</grapheme>
+      <grapheme>764 </grapheme>
       <alias>siebenhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>765</grapheme>
+      <grapheme>765 </grapheme>
       <alias>siebenhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>766</grapheme>
+      <grapheme>766 </grapheme>
       <alias>siebenhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>767</grapheme>
+      <grapheme>767 </grapheme>
       <alias>siebenhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>768</grapheme>
+      <grapheme>768 </grapheme>
       <alias>siebenhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>769</grapheme>
+      <grapheme>769 </grapheme>
       <alias>siebenhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>770</grapheme>
+      <grapheme>770 </grapheme>
       <alias>siebenhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>771</grapheme>
+      <grapheme>771 </grapheme>
       <alias>siebenhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>772</grapheme>
+      <grapheme>772 </grapheme>
       <alias>siebenhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>773</grapheme>
+      <grapheme>773 </grapheme>
       <alias>siebenhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>774</grapheme>
+      <grapheme>774 </grapheme>
       <alias>siebenhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>775</grapheme>
+      <grapheme>775 </grapheme>
       <alias>siebenhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>776</grapheme>
+      <grapheme>776 </grapheme>
       <alias>siebenhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>777</grapheme>
+      <grapheme>777 </grapheme>
       <alias>siebenhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>778</grapheme>
+      <grapheme>778 </grapheme>
       <alias>siebenhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>779</grapheme>
+      <grapheme>779 </grapheme>
       <alias>siebenhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>780</grapheme>
+      <grapheme>780 </grapheme>
       <alias>siebenhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>781</grapheme>
+      <grapheme>781 </grapheme>
       <alias>siebenhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>782</grapheme>
+      <grapheme>782 </grapheme>
       <alias>siebenhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>783</grapheme>
+      <grapheme>783 </grapheme>
       <alias>siebenhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>784</grapheme>
+      <grapheme>784 </grapheme>
       <alias>siebenhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>785</grapheme>
+      <grapheme>785 </grapheme>
       <alias>siebenhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>786</grapheme>
+      <grapheme>786 </grapheme>
       <alias>siebenhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>787</grapheme>
+      <grapheme>787 </grapheme>
       <alias>siebenhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>788</grapheme>
+      <grapheme>788 </grapheme>
       <alias>siebenhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>789</grapheme>
+      <grapheme>789 </grapheme>
       <alias>siebenhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>790</grapheme>
+      <grapheme>790 </grapheme>
       <alias>siebenhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>791</grapheme>
+      <grapheme>791 </grapheme>
       <alias>siebenhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>792</grapheme>
+      <grapheme>792 </grapheme>
       <alias>siebenhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>793</grapheme>
+      <grapheme>793 </grapheme>
       <alias>siebenhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>794</grapheme>
+      <grapheme>794 </grapheme>
       <alias>siebenhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>795</grapheme>
+      <grapheme>795 </grapheme>
       <alias>siebenhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>796</grapheme>
+      <grapheme>796 </grapheme>
       <alias>siebenhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>797</grapheme>
+      <grapheme>797 </grapheme>
       <alias>siebenhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>798</grapheme>
+      <grapheme>798 </grapheme>
       <alias>siebenhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>799</grapheme>
+      <grapheme>799 </grapheme>
       <alias>siebenhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>800</grapheme>
-      <alias>achthundert</alias>
+      <grapheme>800 </grapheme>
+      <alias>null</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>801</grapheme>
+      <grapheme>801 </grapheme>
       <alias>achthunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>802</grapheme>
+      <grapheme>802 </grapheme>
       <alias>achthundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>803</grapheme>
+      <grapheme>803 </grapheme>
       <alias>achthundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>804</grapheme>
+      <grapheme>804 </grapheme>
       <alias>achthundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>805</grapheme>
+      <grapheme>805 </grapheme>
       <alias>achthundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>806</grapheme>
+      <grapheme>806 </grapheme>
       <alias>achthundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>807</grapheme>
+      <grapheme>807 </grapheme>
       <alias>achthundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>808</grapheme>
+      <grapheme>808 </grapheme>
       <alias>achthundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>809</grapheme>
+      <grapheme>809 </grapheme>
       <alias>achthundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>810</grapheme>
+      <grapheme>810 </grapheme>
       <alias>achthundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>811</grapheme>
+      <grapheme>811 </grapheme>
       <alias>achthundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>812</grapheme>
+      <grapheme>812 </grapheme>
       <alias>achthundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>813</grapheme>
+      <grapheme>813 </grapheme>
       <alias>achthundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>814</grapheme>
+      <grapheme>814 </grapheme>
       <alias>achthundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>815</grapheme>
+      <grapheme>815 </grapheme>
       <alias>achthundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>816</grapheme>
+      <grapheme>816 </grapheme>
       <alias>achthundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>817</grapheme>
+      <grapheme>817 </grapheme>
       <alias>achthundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>818</grapheme>
+      <grapheme>818 </grapheme>
       <alias>achthundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>819</grapheme>
+      <grapheme>819 </grapheme>
       <alias>achthundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>820</grapheme>
+      <grapheme>820 </grapheme>
       <alias>achthundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>821</grapheme>
+      <grapheme>821 </grapheme>
       <alias>achthunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>822</grapheme>
+      <grapheme>822 </grapheme>
       <alias>achthundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>823</grapheme>
+      <grapheme>823 </grapheme>
       <alias>achthundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>824</grapheme>
+      <grapheme>824 </grapheme>
       <alias>achthundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>825</grapheme>
+      <grapheme>825 </grapheme>
       <alias>achthundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>826</grapheme>
+      <grapheme>826 </grapheme>
       <alias>achthundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>827</grapheme>
+      <grapheme>827 </grapheme>
       <alias>achthundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>828</grapheme>
+      <grapheme>828 </grapheme>
       <alias>achthundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>829</grapheme>
+      <grapheme>829 </grapheme>
       <alias>achthundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>830</grapheme>
+      <grapheme>830 </grapheme>
       <alias>achthundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>831</grapheme>
+      <grapheme>831 </grapheme>
       <alias>achthunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>832</grapheme>
+      <grapheme>832 </grapheme>
       <alias>achthundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>833</grapheme>
+      <grapheme>833 </grapheme>
       <alias>achthundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>834</grapheme>
+      <grapheme>834 </grapheme>
       <alias>achthundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>835</grapheme>
+      <grapheme>835 </grapheme>
       <alias>achthundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>836</grapheme>
+      <grapheme>836 </grapheme>
       <alias>achthundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>837</grapheme>
+      <grapheme>837 </grapheme>
       <alias>achthundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>838</grapheme>
+      <grapheme>838 </grapheme>
       <alias>achthundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>839</grapheme>
+      <grapheme>839 </grapheme>
       <alias>achthundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>840</grapheme>
+      <grapheme>840 </grapheme>
       <alias>achthundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>841</grapheme>
+      <grapheme>841 </grapheme>
       <alias>achthunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>842</grapheme>
+      <grapheme>842 </grapheme>
       <alias>achthundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>843</grapheme>
+      <grapheme>843 </grapheme>
       <alias>achthundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>844</grapheme>
+      <grapheme>844 </grapheme>
       <alias>achthundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>845</grapheme>
+      <grapheme>845 </grapheme>
       <alias>achthundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>846</grapheme>
+      <grapheme>846 </grapheme>
       <alias>achthundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>847</grapheme>
+      <grapheme>847 </grapheme>
       <alias>achthundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>848</grapheme>
+      <grapheme>848 </grapheme>
       <alias>achthundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>849</grapheme>
+      <grapheme>849 </grapheme>
       <alias>achthundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>850</grapheme>
+      <grapheme>850 </grapheme>
       <alias>achthundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>851</grapheme>
+      <grapheme>851 </grapheme>
       <alias>achthunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>852</grapheme>
+      <grapheme>852 </grapheme>
       <alias>achthundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>853</grapheme>
+      <grapheme>853 </grapheme>
       <alias>achthundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>854</grapheme>
+      <grapheme>854 </grapheme>
       <alias>achthundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>855</grapheme>
+      <grapheme>855 </grapheme>
       <alias>achthundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>856</grapheme>
+      <grapheme>856 </grapheme>
       <alias>achthundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>857</grapheme>
+      <grapheme>857 </grapheme>
       <alias>achthundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>858</grapheme>
+      <grapheme>858 </grapheme>
       <alias>achthundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>859</grapheme>
+      <grapheme>859 </grapheme>
       <alias>achthundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>860</grapheme>
+      <grapheme>860 </grapheme>
       <alias>achthundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>861</grapheme>
+      <grapheme>861 </grapheme>
       <alias>achthunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>862</grapheme>
+      <grapheme>862 </grapheme>
       <alias>achthundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>863</grapheme>
+      <grapheme>863 </grapheme>
       <alias>achthundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>864</grapheme>
+      <grapheme>864 </grapheme>
       <alias>achthundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>865</grapheme>
+      <grapheme>865 </grapheme>
       <alias>achthundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>866</grapheme>
+      <grapheme>866 </grapheme>
       <alias>achthundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>867</grapheme>
+      <grapheme>867 </grapheme>
       <alias>achthundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>868</grapheme>
+      <grapheme>868 </grapheme>
       <alias>achthundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>869</grapheme>
+      <grapheme>869 </grapheme>
       <alias>achthundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>870</grapheme>
+      <grapheme>870 </grapheme>
       <alias>achthundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>871</grapheme>
+      <grapheme>871 </grapheme>
       <alias>achthunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>872</grapheme>
+      <grapheme>872 </grapheme>
       <alias>achthundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>873</grapheme>
+      <grapheme>873 </grapheme>
       <alias>achthundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>874</grapheme>
+      <grapheme>874 </grapheme>
       <alias>achthundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>875</grapheme>
+      <grapheme>875 </grapheme>
       <alias>achthundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>876</grapheme>
+      <grapheme>876 </grapheme>
       <alias>achthundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>877</grapheme>
+      <grapheme>877 </grapheme>
       <alias>achthundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>878</grapheme>
+      <grapheme>878 </grapheme>
       <alias>achthundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>879</grapheme>
+      <grapheme>879 </grapheme>
       <alias>achthundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>880</grapheme>
+      <grapheme>880 </grapheme>
       <alias>achthundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>881</grapheme>
+      <grapheme>881 </grapheme>
       <alias>achthunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>882</grapheme>
+      <grapheme>882 </grapheme>
       <alias>achthundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>883</grapheme>
+      <grapheme>883 </grapheme>
       <alias>achthundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>884</grapheme>
+      <grapheme>884 </grapheme>
       <alias>achthundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>885</grapheme>
+      <grapheme>885 </grapheme>
       <alias>achthundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>886</grapheme>
+      <grapheme>886 </grapheme>
       <alias>achthundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>887</grapheme>
+      <grapheme>887 </grapheme>
       <alias>achthundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>888</grapheme>
+      <grapheme>888 </grapheme>
       <alias>achthundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>889</grapheme>
+      <grapheme>889 </grapheme>
       <alias>achthundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>890</grapheme>
+      <grapheme>890 </grapheme>
       <alias>achthundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>891</grapheme>
+      <grapheme>891 </grapheme>
       <alias>achthunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>892</grapheme>
+      <grapheme>892 </grapheme>
       <alias>achthundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>893</grapheme>
+      <grapheme>893 </grapheme>
       <alias>achthundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>894</grapheme>
+      <grapheme>894 </grapheme>
       <alias>achthundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>895</grapheme>
+      <grapheme>895 </grapheme>
       <alias>achthundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>896</grapheme>
+      <grapheme>896 </grapheme>
       <alias>achthundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>897</grapheme>
+      <grapheme>897 </grapheme>
       <alias>achthundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>898</grapheme>
+      <grapheme>898 </grapheme>
       <alias>achthundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>899</grapheme>
+      <grapheme>899 </grapheme>
       <alias>achthundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>100</grapheme>
+      <grapheme>100 </grapheme>
       <alias>einhundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>101</grapheme>
+      <grapheme>101 </grapheme>
       <alias>einhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>102</grapheme>
+      <grapheme>102 </grapheme>
       <alias>einhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>103</grapheme>
+      <grapheme>103 </grapheme>
       <alias>einhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>104</grapheme>
+      <grapheme>104 </grapheme>
       <alias>einhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>105</grapheme>
+      <grapheme>105 </grapheme>
       <alias>einhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>106</grapheme>
+      <grapheme>106 </grapheme>
       <alias>einhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>107</grapheme>
+      <grapheme>107 </grapheme>
       <alias>einhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>108</grapheme>
+      <grapheme>108 </grapheme>
       <alias>einhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>109</grapheme>
+      <grapheme>109 </grapheme>
       <alias>einhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>110</grapheme>
+      <grapheme>110 </grapheme>
       <alias>einhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>111</grapheme>
+      <grapheme>111 </grapheme>
       <alias>einhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>112</grapheme>
+      <grapheme>112 </grapheme>
       <alias>einhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>113</grapheme>
+      <grapheme>113 </grapheme>
       <alias>einhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>114</grapheme>
+      <grapheme>114 </grapheme>
       <alias>einhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>115</grapheme>
+      <grapheme>115 </grapheme>
       <alias>einhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>116</grapheme>
+      <grapheme>116 </grapheme>
       <alias>einhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>117</grapheme>
+      <grapheme>117 </grapheme>
       <alias>einhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>118</grapheme>
+      <grapheme>118 </grapheme>
       <alias>einhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>119</grapheme>
+      <grapheme>119 </grapheme>
       <alias>einhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>120</grapheme>
+      <grapheme>120 </grapheme>
       <alias>einhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>121</grapheme>
+      <grapheme>121 </grapheme>
       <alias>einhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>122</grapheme>
+      <grapheme>122 </grapheme>
       <alias>einhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>123</grapheme>
+      <grapheme>123 </grapheme>
       <alias>einhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>124</grapheme>
+      <grapheme>124 </grapheme>
       <alias>einhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>125</grapheme>
+      <grapheme>125 </grapheme>
       <alias>einhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>126</grapheme>
+      <grapheme>126 </grapheme>
       <alias>einhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>127</grapheme>
+      <grapheme>127 </grapheme>
       <alias>einhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>128</grapheme>
+      <grapheme>128 </grapheme>
       <alias>einhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>129</grapheme>
+      <grapheme>129 </grapheme>
       <alias>einhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>130</grapheme>
+      <grapheme>130 </grapheme>
       <alias>einhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>131</grapheme>
+      <grapheme>131 </grapheme>
       <alias>einhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>132</grapheme>
+      <grapheme>132 </grapheme>
       <alias>einhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>133</grapheme>
+      <grapheme>133 </grapheme>
       <alias>einhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>134</grapheme>
+      <grapheme>134 </grapheme>
       <alias>einhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>135</grapheme>
+      <grapheme>135 </grapheme>
       <alias>einhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>136</grapheme>
+      <grapheme>136 </grapheme>
       <alias>einhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>137</grapheme>
+      <grapheme>137 </grapheme>
       <alias>einhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>138</grapheme>
+      <grapheme>138 </grapheme>
       <alias>einhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>139</grapheme>
+      <grapheme>139 </grapheme>
       <alias>einhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>140</grapheme>
+      <grapheme>140 </grapheme>
       <alias>einhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>141</grapheme>
+      <grapheme>141 </grapheme>
       <alias>einhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>142</grapheme>
+      <grapheme>142 </grapheme>
       <alias>einhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>143</grapheme>
+      <grapheme>143 </grapheme>
       <alias>einhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>144</grapheme>
+      <grapheme>144 </grapheme>
       <alias>einhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>145</grapheme>
+      <grapheme>145 </grapheme>
       <alias>einhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>146</grapheme>
+      <grapheme>146 </grapheme>
       <alias>einhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>147</grapheme>
+      <grapheme>147 </grapheme>
       <alias>einhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>148</grapheme>
+      <grapheme>148 </grapheme>
       <alias>einhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>149</grapheme>
+      <grapheme>149 </grapheme>
       <alias>einhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>150</grapheme>
+      <grapheme>150 </grapheme>
       <alias>einhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>151</grapheme>
+      <grapheme>151 </grapheme>
       <alias>einhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>152</grapheme>
+      <grapheme>152 </grapheme>
       <alias>einhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>153</grapheme>
+      <grapheme>153 </grapheme>
       <alias>einhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>154</grapheme>
+      <grapheme>154 </grapheme>
       <alias>einhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>155</grapheme>
+      <grapheme>155 </grapheme>
       <alias>einhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>156</grapheme>
+      <grapheme>156 </grapheme>
       <alias>einhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>157</grapheme>
+      <grapheme>157 </grapheme>
       <alias>einhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>158</grapheme>
+      <grapheme>158 </grapheme>
       <alias>einhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>159</grapheme>
+      <grapheme>159 </grapheme>
       <alias>einhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>160</grapheme>
+      <grapheme>160 </grapheme>
       <alias>einhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>161</grapheme>
+      <grapheme>161 </grapheme>
       <alias>einhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>162</grapheme>
+      <grapheme>162 </grapheme>
       <alias>einhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>163</grapheme>
+      <grapheme>163 </grapheme>
       <alias>einhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>164</grapheme>
+      <grapheme>164 </grapheme>
       <alias>einhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>165</grapheme>
+      <grapheme>165 </grapheme>
       <alias>einhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>166</grapheme>
+      <grapheme>166 </grapheme>
       <alias>einhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>167</grapheme>
+      <grapheme>167 </grapheme>
       <alias>einhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>168</grapheme>
+      <grapheme>168 </grapheme>
       <alias>einhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>169</grapheme>
+      <grapheme>169 </grapheme>
       <alias>einhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>170</grapheme>
+      <grapheme>170 </grapheme>
       <alias>einhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>171</grapheme>
+      <grapheme>171 </grapheme>
       <alias>einhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>172</grapheme>
+      <grapheme>172 </grapheme>
       <alias>einhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>173</grapheme>
+      <grapheme>173 </grapheme>
       <alias>einhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>174</grapheme>
+      <grapheme>174 </grapheme>
       <alias>einhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>175</grapheme>
+      <grapheme>175 </grapheme>
       <alias>einhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>176</grapheme>
+      <grapheme>176 </grapheme>
       <alias>einhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>177</grapheme>
+      <grapheme>177 </grapheme>
       <alias>einhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>178</grapheme>
+      <grapheme>178 </grapheme>
       <alias>einhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>179</grapheme>
+      <grapheme>179 </grapheme>
       <alias>einhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>180</grapheme>
+      <grapheme>180 </grapheme>
       <alias>einhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>181</grapheme>
+      <grapheme>181 </grapheme>
       <alias>einhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>182</grapheme>
+      <grapheme>182 </grapheme>
       <alias>einhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>183</grapheme>
+      <grapheme>183 </grapheme>
       <alias>einhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>184</grapheme>
+      <grapheme>184 </grapheme>
       <alias>einhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>185</grapheme>
+      <grapheme>185 </grapheme>
       <alias>einhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>186</grapheme>
+      <grapheme>186 </grapheme>
       <alias>einhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>187</grapheme>
+      <grapheme>187 </grapheme>
       <alias>einhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>188</grapheme>
+      <grapheme>188 </grapheme>
       <alias>einhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>189</grapheme>
+      <grapheme>189 </grapheme>
       <alias>einhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>190</grapheme>
+      <grapheme>190 </grapheme>
       <alias>einhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>191</grapheme>
+      <grapheme>191 </grapheme>
       <alias>einhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>192</grapheme>
+      <grapheme>192 </grapheme>
       <alias>einhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>193</grapheme>
+      <grapheme>193 </grapheme>
       <alias>einhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>194</grapheme>
+      <grapheme>194 </grapheme>
       <alias>einhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>195</grapheme>
+      <grapheme>195 </grapheme>
       <alias>einhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>196</grapheme>
+      <grapheme>196 </grapheme>
       <alias>einhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>197</grapheme>
+      <grapheme>197 </grapheme>
       <alias>einhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>198</grapheme>
+      <grapheme>198 </grapheme>
       <alias>einhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>199</grapheme>
+      <grapheme>199 </grapheme>
       <alias>einhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>200</grapheme>
+      <grapheme>200 </grapheme>
       <alias>zweihundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>201</grapheme>
+      <grapheme>201 </grapheme>
       <alias>zweihunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>202</grapheme>
+      <grapheme>202 </grapheme>
       <alias>zweihundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>203</grapheme>
+      <grapheme>203 </grapheme>
       <alias>zweihundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>204</grapheme>
+      <grapheme>204 </grapheme>
       <alias>zweihundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>205</grapheme>
+      <grapheme>205 </grapheme>
       <alias>zweihundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>206</grapheme>
+      <grapheme>206 </grapheme>
       <alias>zweihundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>207</grapheme>
+      <grapheme>207 </grapheme>
       <alias>zweihundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>208</grapheme>
+      <grapheme>208 </grapheme>
       <alias>zweihundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>209</grapheme>
+      <grapheme>209 </grapheme>
       <alias>zweihundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>210</grapheme>
+      <grapheme>210 </grapheme>
       <alias>zweihundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>211</grapheme>
+      <grapheme>211 </grapheme>
       <alias>zweihundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>212</grapheme>
+      <grapheme>212 </grapheme>
       <alias>zweihundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>213</grapheme>
+      <grapheme>213 </grapheme>
       <alias>zweihundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>214</grapheme>
+      <grapheme>214 </grapheme>
       <alias>zweihundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>215</grapheme>
+      <grapheme>215 </grapheme>
       <alias>zweihundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>216</grapheme>
+      <grapheme>216 </grapheme>
       <alias>zweihundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>217</grapheme>
+      <grapheme>217 </grapheme>
       <alias>zweihundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>218</grapheme>
+      <grapheme>218 </grapheme>
       <alias>zweihundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>219</grapheme>
+      <grapheme>219 </grapheme>
       <alias>zweihundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>220</grapheme>
+      <grapheme>220 </grapheme>
       <alias>zweihundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>221</grapheme>
+      <grapheme>221 </grapheme>
       <alias>zweihunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>222</grapheme>
+      <grapheme>222 </grapheme>
       <alias>zweihundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>223</grapheme>
+      <grapheme>223 </grapheme>
       <alias>zweihundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>224</grapheme>
+      <grapheme>224 </grapheme>
       <alias>zweihundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>225</grapheme>
+      <grapheme>225 </grapheme>
       <alias>zweihundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>226</grapheme>
+      <grapheme>226 </grapheme>
       <alias>zweihundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>227</grapheme>
+      <grapheme>227 </grapheme>
       <alias>zweihundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>228</grapheme>
+      <grapheme>228 </grapheme>
       <alias>zweihundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>229</grapheme>
+      <grapheme>229 </grapheme>
       <alias>zweihundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>230</grapheme>
+      <grapheme>230 </grapheme>
       <alias>zweihundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>231</grapheme>
+      <grapheme>231 </grapheme>
       <alias>zweihunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>232</grapheme>
+      <grapheme>232 </grapheme>
       <alias>zweihundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>233</grapheme>
+      <grapheme>233 </grapheme>
       <alias>zweihundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>234</grapheme>
+      <grapheme>234 </grapheme>
       <alias>zweihundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>235</grapheme>
+      <grapheme>235 </grapheme>
       <alias>zweihundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>236</grapheme>
+      <grapheme>236 </grapheme>
       <alias>zweihundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>237</grapheme>
+      <grapheme>237 </grapheme>
       <alias>zweihundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>238</grapheme>
+      <grapheme>238 </grapheme>
       <alias>zweihundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>239</grapheme>
+      <grapheme>239 </grapheme>
       <alias>zweihundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>240</grapheme>
+      <grapheme>240 </grapheme>
       <alias>zweihundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>241</grapheme>
+      <grapheme>241 </grapheme>
       <alias>zweihunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>242</grapheme>
+      <grapheme>242 </grapheme>
       <alias>zweihundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>243</grapheme>
+      <grapheme>243 </grapheme>
       <alias>zweihundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>244</grapheme>
+      <grapheme>244 </grapheme>
       <alias>zweihundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>245</grapheme>
+      <grapheme>245 </grapheme>
       <alias>zweihundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>246</grapheme>
+      <grapheme>246 </grapheme>
       <alias>zweihundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>247</grapheme>
+      <grapheme>247 </grapheme>
       <alias>zweihundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>248</grapheme>
+      <grapheme>248 </grapheme>
       <alias>zweihundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>249</grapheme>
+      <grapheme>249 </grapheme>
       <alias>zweihundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>250</grapheme>
+      <grapheme>250 </grapheme>
       <alias>zweihundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>251</grapheme>
+      <grapheme>251 </grapheme>
       <alias>zweihunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>252</grapheme>
+      <grapheme>252 </grapheme>
       <alias>zweihundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>253</grapheme>
+      <grapheme>253 </grapheme>
       <alias>zweihundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>254</grapheme>
+      <grapheme>254 </grapheme>
       <alias>zweihundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>255</grapheme>
+      <grapheme>255 </grapheme>
       <alias>zweihundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>256</grapheme>
+      <grapheme>256 </grapheme>
       <alias>zweihundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>257</grapheme>
+      <grapheme>257 </grapheme>
       <alias>zweihundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>258</grapheme>
+      <grapheme>258 </grapheme>
       <alias>zweihundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>259</grapheme>
+      <grapheme>259 </grapheme>
       <alias>zweihundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>260</grapheme>
+      <grapheme>260 </grapheme>
       <alias>zweihundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>261</grapheme>
+      <grapheme>261 </grapheme>
       <alias>zweihunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>262</grapheme>
+      <grapheme>262 </grapheme>
       <alias>zweihundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>263</grapheme>
+      <grapheme>263 </grapheme>
       <alias>zweihundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>264</grapheme>
+      <grapheme>264 </grapheme>
       <alias>zweihundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>265</grapheme>
+      <grapheme>265 </grapheme>
       <alias>zweihundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>266</grapheme>
+      <grapheme>266 </grapheme>
       <alias>zweihundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>267</grapheme>
+      <grapheme>267 </grapheme>
       <alias>zweihundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>268</grapheme>
+      <grapheme>268 </grapheme>
       <alias>zweihundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>269</grapheme>
+      <grapheme>269 </grapheme>
       <alias>zweihundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>270</grapheme>
+      <grapheme>270 </grapheme>
       <alias>zweihundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>271</grapheme>
+      <grapheme>271 </grapheme>
       <alias>zweihunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>272</grapheme>
+      <grapheme>272 </grapheme>
       <alias>zweihundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>273</grapheme>
+      <grapheme>273 </grapheme>
       <alias>zweihundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>274</grapheme>
+      <grapheme>274 </grapheme>
       <alias>zweihundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>275</grapheme>
+      <grapheme>275 </grapheme>
       <alias>zweihundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>276</grapheme>
+      <grapheme>276 </grapheme>
       <alias>zweihundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>277</grapheme>
+      <grapheme>277 </grapheme>
       <alias>zweihundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>278</grapheme>
+      <grapheme>278 </grapheme>
       <alias>zweihundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>279</grapheme>
+      <grapheme>279 </grapheme>
       <alias>zweihundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>280</grapheme>
+      <grapheme>280 </grapheme>
       <alias>zweihundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>281</grapheme>
+      <grapheme>281 </grapheme>
       <alias>zweihunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>282</grapheme>
+      <grapheme>282 </grapheme>
       <alias>zweihundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>283</grapheme>
+      <grapheme>283 </grapheme>
       <alias>zweihundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>284</grapheme>
+      <grapheme>284 </grapheme>
       <alias>zweihundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>285</grapheme>
+      <grapheme>285 </grapheme>
       <alias>zweihundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>286</grapheme>
+      <grapheme>286 </grapheme>
       <alias>zweihundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>287</grapheme>
+      <grapheme>287 </grapheme>
       <alias>zweihundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>288</grapheme>
+      <grapheme>288 </grapheme>
       <alias>zweihundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>289</grapheme>
+      <grapheme>289 </grapheme>
       <alias>zweihundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>290</grapheme>
+      <grapheme>290 </grapheme>
       <alias>zweihundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>291</grapheme>
+      <grapheme>291 </grapheme>
       <alias>zweihunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>292</grapheme>
+      <grapheme>292 </grapheme>
       <alias>zweihundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>293</grapheme>
+      <grapheme>293 </grapheme>
       <alias>zweihundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>294</grapheme>
+      <grapheme>294 </grapheme>
       <alias>zweihundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>295</grapheme>
+      <grapheme>295 </grapheme>
       <alias>zweihundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>296</grapheme>
+      <grapheme>296 </grapheme>
       <alias>zweihundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>297</grapheme>
+      <grapheme>297 </grapheme>
       <alias>zweihundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>298</grapheme>
+      <grapheme>298 </grapheme>
       <alias>zweihundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>299</grapheme>
+      <grapheme>299 </grapheme>
       <alias>zweihundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>300</grapheme>
+      <grapheme>300 </grapheme>
       <alias>dreihundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>301</grapheme>
+      <grapheme>301 </grapheme>
       <alias>dreihunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>302</grapheme>
+      <grapheme>302 </grapheme>
       <alias>dreihundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>303</grapheme>
+      <grapheme>303 </grapheme>
       <alias>dreihundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>304</grapheme>
+      <grapheme>304 </grapheme>
       <alias>dreihundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>305</grapheme>
+      <grapheme>305 </grapheme>
       <alias>dreihundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>306</grapheme>
+      <grapheme>306 </grapheme>
       <alias>dreihundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>307</grapheme>
+      <grapheme>307 </grapheme>
       <alias>dreihundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>308</grapheme>
+      <grapheme>308 </grapheme>
       <alias>dreihundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>309</grapheme>
+      <grapheme>309 </grapheme>
       <alias>dreihundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>310</grapheme>
+      <grapheme>310 </grapheme>
       <alias>dreihundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>311</grapheme>
+      <grapheme>311 </grapheme>
       <alias>dreihundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>312</grapheme>
+      <grapheme>312 </grapheme>
       <alias>dreihundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>313</grapheme>
+      <grapheme>313 </grapheme>
       <alias>dreihundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>314</grapheme>
+      <grapheme>314 </grapheme>
       <alias>dreihundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>315</grapheme>
+      <grapheme>315 </grapheme>
       <alias>dreihundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>316</grapheme>
+      <grapheme>316 </grapheme>
       <alias>dreihundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>317</grapheme>
+      <grapheme>317 </grapheme>
       <alias>dreihundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>318</grapheme>
+      <grapheme>318 </grapheme>
       <alias>dreihundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>319</grapheme>
+      <grapheme>319 </grapheme>
       <alias>dreihundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>320</grapheme>
+      <grapheme>320 </grapheme>
       <alias>dreihundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>321</grapheme>
+      <grapheme>321 </grapheme>
       <alias>dreihunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>322</grapheme>
+      <grapheme>322 </grapheme>
       <alias>dreihundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>323</grapheme>
+      <grapheme>323 </grapheme>
       <alias>dreihundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>324</grapheme>
+      <grapheme>324 </grapheme>
       <alias>dreihundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>325</grapheme>
+      <grapheme>325 </grapheme>
       <alias>dreihundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>326</grapheme>
+      <grapheme>326 </grapheme>
       <alias>dreihundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>327</grapheme>
+      <grapheme>327 </grapheme>
       <alias>dreihundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>328</grapheme>
+      <grapheme>328 </grapheme>
       <alias>dreihundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>329</grapheme>
+      <grapheme>329 </grapheme>
       <alias>dreihundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>330</grapheme>
+      <grapheme>330 </grapheme>
       <alias>dreihundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>331</grapheme>
+      <grapheme>331 </grapheme>
       <alias>dreihunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>332</grapheme>
+      <grapheme>332 </grapheme>
       <alias>dreihundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>333</grapheme>
+      <grapheme>333 </grapheme>
       <alias>dreihundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>334</grapheme>
+      <grapheme>334 </grapheme>
       <alias>dreihundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>335</grapheme>
+      <grapheme>335 </grapheme>
       <alias>dreihundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>336</grapheme>
+      <grapheme>336 </grapheme>
       <alias>dreihundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>337</grapheme>
+      <grapheme>337 </grapheme>
       <alias>dreihundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>338</grapheme>
+      <grapheme>338 </grapheme>
       <alias>dreihundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>339</grapheme>
+      <grapheme>339 </grapheme>
       <alias>dreihundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>340</grapheme>
+      <grapheme>340 </grapheme>
       <alias>dreihundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>341</grapheme>
+      <grapheme>341 </grapheme>
       <alias>dreihunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>342</grapheme>
+      <grapheme>342 </grapheme>
       <alias>dreihundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>343</grapheme>
+      <grapheme>343 </grapheme>
       <alias>dreihundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>344</grapheme>
+      <grapheme>344 </grapheme>
       <alias>dreihundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>345</grapheme>
+      <grapheme>345 </grapheme>
       <alias>dreihundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>346</grapheme>
+      <grapheme>346 </grapheme>
       <alias>dreihundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>347</grapheme>
+      <grapheme>347 </grapheme>
       <alias>dreihundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>348</grapheme>
+      <grapheme>348 </grapheme>
       <alias>dreihundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>349</grapheme>
+      <grapheme>349 </grapheme>
       <alias>dreihundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>350</grapheme>
+      <grapheme>350 </grapheme>
       <alias>dreihundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>351</grapheme>
+      <grapheme>351 </grapheme>
       <alias>dreihunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>352</grapheme>
+      <grapheme>352 </grapheme>
       <alias>dreihundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>353</grapheme>
+      <grapheme>353 </grapheme>
       <alias>dreihundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>354</grapheme>
+      <grapheme>354 </grapheme>
       <alias>dreihundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>355</grapheme>
+      <grapheme>355 </grapheme>
       <alias>dreihundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>356</grapheme>
+      <grapheme>356 </grapheme>
       <alias>dreihundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>357</grapheme>
+      <grapheme>357 </grapheme>
       <alias>dreihundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>358</grapheme>
+      <grapheme>358 </grapheme>
       <alias>dreihundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>359</grapheme>
+      <grapheme>359 </grapheme>
       <alias>dreihundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>360</grapheme>
+      <grapheme>360 </grapheme>
       <alias>dreihundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>361</grapheme>
+      <grapheme>361 </grapheme>
       <alias>dreihunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>362</grapheme>
+      <grapheme>362 </grapheme>
       <alias>dreihundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>363</grapheme>
+      <grapheme>363 </grapheme>
       <alias>dreihundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>364</grapheme>
+      <grapheme>364 </grapheme>
       <alias>dreihundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>365</grapheme>
+      <grapheme>365 </grapheme>
       <alias>dreihundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>366</grapheme>
+      <grapheme>366 </grapheme>
       <alias>dreihundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>367</grapheme>
+      <grapheme>367 </grapheme>
       <alias>dreihundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>368</grapheme>
+      <grapheme>368 </grapheme>
       <alias>dreihundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>369</grapheme>
+      <grapheme>369 </grapheme>
       <alias>dreihundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>370</grapheme>
+      <grapheme>370 </grapheme>
       <alias>dreihundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>371</grapheme>
+      <grapheme>371 </grapheme>
       <alias>dreihunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>372</grapheme>
+      <grapheme>372 </grapheme>
       <alias>dreihundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>373</grapheme>
+      <grapheme>373 </grapheme>
       <alias>dreihundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>374</grapheme>
+      <grapheme>374 </grapheme>
       <alias>dreihundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>375</grapheme>
+      <grapheme>375 </grapheme>
       <alias>dreihundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>376</grapheme>
+      <grapheme>376 </grapheme>
       <alias>dreihundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>377</grapheme>
+      <grapheme>377 </grapheme>
       <alias>dreihundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>378</grapheme>
+      <grapheme>378 </grapheme>
       <alias>dreihundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>379</grapheme>
+      <grapheme>379 </grapheme>
       <alias>dreihundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>380</grapheme>
+      <grapheme>380 </grapheme>
       <alias>dreihundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>381</grapheme>
+      <grapheme>381 </grapheme>
       <alias>dreihunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>382</grapheme>
+      <grapheme>382 </grapheme>
       <alias>dreihundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>383</grapheme>
+      <grapheme>383 </grapheme>
       <alias>dreihundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>384</grapheme>
+      <grapheme>384 </grapheme>
       <alias>dreihundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>385</grapheme>
+      <grapheme>385 </grapheme>
       <alias>dreihundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>386</grapheme>
+      <grapheme>386 </grapheme>
       <alias>dreihundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>387</grapheme>
+      <grapheme>387 </grapheme>
       <alias>dreihundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>388</grapheme>
+      <grapheme>388 </grapheme>
       <alias>dreihundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>389</grapheme>
+      <grapheme>389 </grapheme>
       <alias>dreihundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>390</grapheme>
+      <grapheme>390 </grapheme>
       <alias>dreihundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>391</grapheme>
+      <grapheme>391 </grapheme>
       <alias>dreihunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>392</grapheme>
+      <grapheme>392 </grapheme>
       <alias>dreihundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>393</grapheme>
+      <grapheme>393 </grapheme>
       <alias>dreihundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>394</grapheme>
+      <grapheme>394 </grapheme>
       <alias>dreihundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>395</grapheme>
+      <grapheme>395 </grapheme>
       <alias>dreihundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>396</grapheme>
+      <grapheme>396 </grapheme>
       <alias>dreihundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>397</grapheme>
+      <grapheme>397 </grapheme>
       <alias>dreihundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>398</grapheme>
+      <grapheme>398 </grapheme>
       <alias>dreihundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>399</grapheme>
+      <grapheme>399 </grapheme>
       <alias>dreihundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>400</grapheme>
+      <grapheme>400 </grapheme>
       <alias>vierhundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>401</grapheme>
+      <grapheme>401 </grapheme>
       <alias>vierhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>402</grapheme>
+      <grapheme>402 </grapheme>
       <alias>vierhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>403</grapheme>
+      <grapheme>403 </grapheme>
       <alias>vierhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>404</grapheme>
+      <grapheme>404 </grapheme>
       <alias>vierhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>405</grapheme>
+      <grapheme>405 </grapheme>
       <alias>vierhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>406</grapheme>
+      <grapheme>406 </grapheme>
       <alias>vierhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>407</grapheme>
+      <grapheme>407 </grapheme>
       <alias>vierhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>408</grapheme>
+      <grapheme>408 </grapheme>
       <alias>vierhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>409</grapheme>
+      <grapheme>409 </grapheme>
       <alias>vierhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>410</grapheme>
+      <grapheme>410 </grapheme>
       <alias>vierhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>411</grapheme>
+      <grapheme>411 </grapheme>
       <alias>vierhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>412</grapheme>
+      <grapheme>412 </grapheme>
       <alias>vierhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>413</grapheme>
+      <grapheme>413 </grapheme>
       <alias>vierhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>414</grapheme>
+      <grapheme>414 </grapheme>
       <alias>vierhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>415</grapheme>
+      <grapheme>415 </grapheme>
       <alias>vierhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>416</grapheme>
+      <grapheme>416 </grapheme>
       <alias>vierhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>417</grapheme>
+      <grapheme>417 </grapheme>
       <alias>vierhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>418</grapheme>
+      <grapheme>418 </grapheme>
       <alias>vierhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>419</grapheme>
+      <grapheme>419 </grapheme>
       <alias>vierhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>420</grapheme>
+      <grapheme>420 </grapheme>
       <alias>vierhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>421</grapheme>
+      <grapheme>421 </grapheme>
       <alias>vierhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>422</grapheme>
+      <grapheme>422 </grapheme>
       <alias>vierhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>423</grapheme>
+      <grapheme>423 </grapheme>
       <alias>vierhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>424</grapheme>
+      <grapheme>424 </grapheme>
       <alias>vierhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>425</grapheme>
+      <grapheme>425 </grapheme>
       <alias>vierhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>426</grapheme>
+      <grapheme>426 </grapheme>
       <alias>vierhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>427</grapheme>
+      <grapheme>427 </grapheme>
       <alias>vierhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>428</grapheme>
+      <grapheme>428 </grapheme>
       <alias>vierhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>429</grapheme>
+      <grapheme>429 </grapheme>
       <alias>vierhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>430</grapheme>
+      <grapheme>430 </grapheme>
       <alias>vierhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>431</grapheme>
+      <grapheme>431 </grapheme>
       <alias>vierhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>432</grapheme>
+      <grapheme>432 </grapheme>
       <alias>vierhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>433</grapheme>
+      <grapheme>433 </grapheme>
       <alias>vierhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>434</grapheme>
+      <grapheme>434 </grapheme>
       <alias>vierhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>435</grapheme>
+      <grapheme>435 </grapheme>
       <alias>vierhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>436</grapheme>
+      <grapheme>436 </grapheme>
       <alias>vierhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>437</grapheme>
+      <grapheme>437 </grapheme>
       <alias>vierhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>438</grapheme>
+      <grapheme>438 </grapheme>
       <alias>vierhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>439</grapheme>
+      <grapheme>439 </grapheme>
       <alias>vierhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>440</grapheme>
+      <grapheme>440 </grapheme>
       <alias>vierhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>441</grapheme>
+      <grapheme>441 </grapheme>
       <alias>vierhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>442</grapheme>
+      <grapheme>442 </grapheme>
       <alias>vierhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>443</grapheme>
+      <grapheme>443 </grapheme>
       <alias>vierhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>444</grapheme>
+      <grapheme>444 </grapheme>
       <alias>vierhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>445</grapheme>
+      <grapheme>445 </grapheme>
       <alias>vierhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>446</grapheme>
+      <grapheme>446 </grapheme>
       <alias>vierhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>447</grapheme>
+      <grapheme>447 </grapheme>
       <alias>vierhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>448</grapheme>
+      <grapheme>448 </grapheme>
       <alias>vierhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>449</grapheme>
+      <grapheme>449 </grapheme>
       <alias>vierhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>450</grapheme>
+      <grapheme>450 </grapheme>
       <alias>vierhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>451</grapheme>
+      <grapheme>451 </grapheme>
       <alias>vierhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>452</grapheme>
+      <grapheme>452 </grapheme>
       <alias>vierhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>453</grapheme>
+      <grapheme>453 </grapheme>
       <alias>vierhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>454</grapheme>
+      <grapheme>454 </grapheme>
       <alias>vierhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>455</grapheme>
+      <grapheme>455 </grapheme>
       <alias>vierhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>456</grapheme>
+      <grapheme>456 </grapheme>
       <alias>vierhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>457</grapheme>
+      <grapheme>457 </grapheme>
       <alias>vierhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>458</grapheme>
+      <grapheme>458 </grapheme>
       <alias>vierhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>459</grapheme>
+      <grapheme>459 </grapheme>
       <alias>vierhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>460</grapheme>
+      <grapheme>460 </grapheme>
       <alias>vierhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>461</grapheme>
+      <grapheme>461 </grapheme>
       <alias>vierhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>462</grapheme>
+      <grapheme>462 </grapheme>
       <alias>vierhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>463</grapheme>
+      <grapheme>463 </grapheme>
       <alias>vierhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>464</grapheme>
+      <grapheme>464 </grapheme>
       <alias>vierhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>465</grapheme>
+      <grapheme>465 </grapheme>
       <alias>vierhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>466</grapheme>
+      <grapheme>466 </grapheme>
       <alias>vierhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>467</grapheme>
+      <grapheme>467 </grapheme>
       <alias>vierhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>468</grapheme>
+      <grapheme>468 </grapheme>
       <alias>vierhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>469</grapheme>
+      <grapheme>469 </grapheme>
       <alias>vierhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>470</grapheme>
+      <grapheme>470 </grapheme>
       <alias>vierhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>471</grapheme>
+      <grapheme>471 </grapheme>
       <alias>vierhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>472</grapheme>
+      <grapheme>472 </grapheme>
       <alias>vierhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>473</grapheme>
+      <grapheme>473 </grapheme>
       <alias>vierhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>474</grapheme>
+      <grapheme>474 </grapheme>
       <alias>vierhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>475</grapheme>
+      <grapheme>475 </grapheme>
       <alias>vierhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>476</grapheme>
+      <grapheme>476 </grapheme>
       <alias>vierhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>477</grapheme>
+      <grapheme>477 </grapheme>
       <alias>vierhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>478</grapheme>
+      <grapheme>478 </grapheme>
       <alias>vierhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>479</grapheme>
+      <grapheme>479 </grapheme>
       <alias>vierhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>480</grapheme>
+      <grapheme>480 </grapheme>
       <alias>vierhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>481</grapheme>
+      <grapheme>481 </grapheme>
       <alias>vierhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>482</grapheme>
+      <grapheme>482 </grapheme>
       <alias>vierhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>483</grapheme>
+      <grapheme>483 </grapheme>
       <alias>vierhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>484</grapheme>
+      <grapheme>484 </grapheme>
       <alias>vierhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>485</grapheme>
+      <grapheme>485 </grapheme>
       <alias>vierhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>486</grapheme>
+      <grapheme>486 </grapheme>
       <alias>vierhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>487</grapheme>
+      <grapheme>487 </grapheme>
       <alias>vierhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>488</grapheme>
+      <grapheme>488 </grapheme>
       <alias>vierhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>489</grapheme>
+      <grapheme>489 </grapheme>
       <alias>vierhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>490</grapheme>
+      <grapheme>490 </grapheme>
       <alias>vierhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>491</grapheme>
+      <grapheme>491 </grapheme>
       <alias>vierhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>492</grapheme>
+      <grapheme>492 </grapheme>
       <alias>vierhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>493</grapheme>
+      <grapheme>493 </grapheme>
       <alias>vierhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>494</grapheme>
+      <grapheme>494 </grapheme>
       <alias>vierhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>495</grapheme>
+      <grapheme>495 </grapheme>
       <alias>vierhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>496</grapheme>
+      <grapheme>496 </grapheme>
       <alias>vierhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>497</grapheme>
+      <grapheme>497 </grapheme>
       <alias>vierhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>498</grapheme>
+      <grapheme>498 </grapheme>
       <alias>vierhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>499</grapheme>
+      <grapheme>499 </grapheme>
       <alias>vierhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>500</grapheme>
+      <grapheme>500 </grapheme>
       <alias>fünfhundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>501</grapheme>
+      <grapheme>501 </grapheme>
       <alias>fünfhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>502</grapheme>
+      <grapheme>502 </grapheme>
       <alias>fünfhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>503</grapheme>
+      <grapheme>503 </grapheme>
       <alias>fünfhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>504</grapheme>
+      <grapheme>504 </grapheme>
       <alias>fünfhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>505</grapheme>
+      <grapheme>505 </grapheme>
       <alias>fünfhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>506</grapheme>
+      <grapheme>506 </grapheme>
       <alias>fünfhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>507</grapheme>
+      <grapheme>507 </grapheme>
       <alias>fünfhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>508</grapheme>
+      <grapheme>508 </grapheme>
       <alias>fünfhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>509</grapheme>
+      <grapheme>509 </grapheme>
       <alias>fünfhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>510</grapheme>
+      <grapheme>510 </grapheme>
       <alias>fünfhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>511</grapheme>
+      <grapheme>511 </grapheme>
       <alias>fünfhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>512</grapheme>
+      <grapheme>512 </grapheme>
       <alias>fünfhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>513</grapheme>
+      <grapheme>513 </grapheme>
       <alias>fünfhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>514</grapheme>
+      <grapheme>514 </grapheme>
       <alias>fünfhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>515</grapheme>
+      <grapheme>515 </grapheme>
       <alias>fünfhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>516</grapheme>
+      <grapheme>516 </grapheme>
       <alias>fünfhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>517</grapheme>
+      <grapheme>517 </grapheme>
       <alias>fünfhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>518</grapheme>
+      <grapheme>518 </grapheme>
       <alias>fünfhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>519</grapheme>
+      <grapheme>519 </grapheme>
       <alias>fünfhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>520</grapheme>
+      <grapheme>520 </grapheme>
       <alias>fünfhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>521</grapheme>
+      <grapheme>521 </grapheme>
       <alias>fünfhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>522</grapheme>
+      <grapheme>522 </grapheme>
       <alias>fünfhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>523</grapheme>
+      <grapheme>523 </grapheme>
       <alias>fünfhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>524</grapheme>
+      <grapheme>524 </grapheme>
       <alias>fünfhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>525</grapheme>
+      <grapheme>525 </grapheme>
       <alias>fünfhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>526</grapheme>
+      <grapheme>526 </grapheme>
       <alias>fünfhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>527</grapheme>
+      <grapheme>527 </grapheme>
       <alias>fünfhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>528</grapheme>
+      <grapheme>528 </grapheme>
       <alias>fünfhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>529</grapheme>
+      <grapheme>529 </grapheme>
       <alias>fünfhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>530</grapheme>
+      <grapheme>530 </grapheme>
       <alias>fünfhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>531</grapheme>
+      <grapheme>531 </grapheme>
       <alias>fünfhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>532</grapheme>
+      <grapheme>532 </grapheme>
       <alias>fünfhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>533</grapheme>
+      <grapheme>533 </grapheme>
       <alias>fünfhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>534</grapheme>
+      <grapheme>534 </grapheme>
       <alias>fünfhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>535</grapheme>
+      <grapheme>535 </grapheme>
       <alias>fünfhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>536</grapheme>
+      <grapheme>536 </grapheme>
       <alias>fünfhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>537</grapheme>
+      <grapheme>537 </grapheme>
       <alias>fünfhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>538</grapheme>
+      <grapheme>538 </grapheme>
       <alias>fünfhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>539</grapheme>
+      <grapheme>539 </grapheme>
       <alias>fünfhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>540</grapheme>
+      <grapheme>540 </grapheme>
       <alias>fünfhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>541</grapheme>
+      <grapheme>541 </grapheme>
       <alias>fünfhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>542</grapheme>
+      <grapheme>542 </grapheme>
       <alias>fünfhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>543</grapheme>
+      <grapheme>543 </grapheme>
       <alias>fünfhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>544</grapheme>
+      <grapheme>544 </grapheme>
       <alias>fünfhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>545</grapheme>
+      <grapheme>545 </grapheme>
       <alias>fünfhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>546</grapheme>
+      <grapheme>546 </grapheme>
       <alias>fünfhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>547</grapheme>
+      <grapheme>547 </grapheme>
       <alias>fünfhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>548</grapheme>
+      <grapheme>548 </grapheme>
       <alias>fünfhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>549</grapheme>
+      <grapheme>549 </grapheme>
       <alias>fünfhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>550</grapheme>
+      <grapheme>550 </grapheme>
       <alias>fünfhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>551</grapheme>
+      <grapheme>551 </grapheme>
       <alias>fünfhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>552</grapheme>
+      <grapheme>552 </grapheme>
       <alias>fünfhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>553</grapheme>
+      <grapheme>553 </grapheme>
       <alias>fünfhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>554</grapheme>
+      <grapheme>554 </grapheme>
       <alias>fünfhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>555</grapheme>
+      <grapheme>555 </grapheme>
       <alias>fünfhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>556</grapheme>
+      <grapheme>556 </grapheme>
       <alias>fünfhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>557</grapheme>
+      <grapheme>557 </grapheme>
       <alias>fünfhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>558</grapheme>
+      <grapheme>558 </grapheme>
       <alias>fünfhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>559</grapheme>
+      <grapheme>559 </grapheme>
       <alias>fünfhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>560</grapheme>
+      <grapheme>560 </grapheme>
       <alias>fünfhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>561</grapheme>
+      <grapheme>561 </grapheme>
       <alias>fünfhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>562</grapheme>
+      <grapheme>562 </grapheme>
       <alias>fünfhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>563</grapheme>
+      <grapheme>563 </grapheme>
       <alias>fünfhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>564</grapheme>
+      <grapheme>564 </grapheme>
       <alias>fünfhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>565</grapheme>
+      <grapheme>565 </grapheme>
       <alias>fünfhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>566</grapheme>
+      <grapheme>566 </grapheme>
       <alias>fünfhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>567</grapheme>
+      <grapheme>567 </grapheme>
       <alias>fünfhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>568</grapheme>
+      <grapheme>568 </grapheme>
       <alias>fünfhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>569</grapheme>
+      <grapheme>569 </grapheme>
       <alias>fünfhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>570</grapheme>
+      <grapheme>570 </grapheme>
       <alias>fünfhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>571</grapheme>
+      <grapheme>571 </grapheme>
       <alias>fünfhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>572</grapheme>
+      <grapheme>572 </grapheme>
       <alias>fünfhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>573</grapheme>
+      <grapheme>573 </grapheme>
       <alias>fünfhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>574</grapheme>
+      <grapheme>574 </grapheme>
       <alias>fünfhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>575</grapheme>
+      <grapheme>575 </grapheme>
       <alias>fünfhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>576</grapheme>
+      <grapheme>576 </grapheme>
       <alias>fünfhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>577</grapheme>
+      <grapheme>577 </grapheme>
       <alias>fünfhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>578</grapheme>
+      <grapheme>578 </grapheme>
       <alias>fünfhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>579</grapheme>
+      <grapheme>579 </grapheme>
       <alias>fünfhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>580</grapheme>
+      <grapheme>580 </grapheme>
       <alias>fünfhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>581</grapheme>
+      <grapheme>581 </grapheme>
       <alias>fünfhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>582</grapheme>
+      <grapheme>582 </grapheme>
       <alias>fünfhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>583</grapheme>
+      <grapheme>583 </grapheme>
       <alias>fünfhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>584</grapheme>
+      <grapheme>584 </grapheme>
       <alias>fünfhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>585</grapheme>
+      <grapheme>585 </grapheme>
       <alias>fünfhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>586</grapheme>
+      <grapheme>586 </grapheme>
       <alias>fünfhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>587</grapheme>
+      <grapheme>587 </grapheme>
       <alias>fünfhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>588</grapheme>
+      <grapheme>588 </grapheme>
       <alias>fünfhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>589</grapheme>
+      <grapheme>589 </grapheme>
       <alias>fünfhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>590</grapheme>
+      <grapheme>590 </grapheme>
       <alias>fünfhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>591</grapheme>
+      <grapheme>591 </grapheme>
       <alias>fünfhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>592</grapheme>
+      <grapheme>592 </grapheme>
       <alias>fünfhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>593</grapheme>
+      <grapheme>593 </grapheme>
       <alias>fünfhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>594</grapheme>
+      <grapheme>594 </grapheme>
       <alias>fünfhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>595</grapheme>
+      <grapheme>595 </grapheme>
       <alias>fünfhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>596</grapheme>
+      <grapheme>596 </grapheme>
       <alias>fünfhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>597</grapheme>
+      <grapheme>597 </grapheme>
       <alias>fünfhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>598</grapheme>
+      <grapheme>598 </grapheme>
       <alias>fünfhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>599</grapheme>
+      <grapheme>599 </grapheme>
       <alias>fünfhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>600</grapheme>
+      <grapheme>600 </grapheme>
       <alias>sechshundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>601</grapheme>
+      <grapheme>601 </grapheme>
       <alias>sechshunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>602</grapheme>
+      <grapheme>602 </grapheme>
       <alias>sechshundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>603</grapheme>
+      <grapheme>603 </grapheme>
       <alias>sechshundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>604</grapheme>
+      <grapheme>604 </grapheme>
       <alias>sechshundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>605</grapheme>
+      <grapheme>605 </grapheme>
       <alias>sechshundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>606</grapheme>
+      <grapheme>606 </grapheme>
       <alias>sechshundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>607</grapheme>
+      <grapheme>607 </grapheme>
       <alias>sechshundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>608</grapheme>
+      <grapheme>608 </grapheme>
       <alias>sechshundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>609</grapheme>
+      <grapheme>609 </grapheme>
       <alias>sechshundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>610</grapheme>
+      <grapheme>610 </grapheme>
       <alias>sechshundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>611</grapheme>
+      <grapheme>611 </grapheme>
       <alias>sechshundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>612</grapheme>
+      <grapheme>612 </grapheme>
       <alias>sechshundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>613</grapheme>
+      <grapheme>613 </grapheme>
       <alias>sechshundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>614</grapheme>
+      <grapheme>614 </grapheme>
       <alias>sechshundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>615</grapheme>
+      <grapheme>615 </grapheme>
       <alias>sechshundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>616</grapheme>
+      <grapheme>616 </grapheme>
       <alias>sechshundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>617</grapheme>
+      <grapheme>617 </grapheme>
       <alias>sechshundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>618</grapheme>
+      <grapheme>618 </grapheme>
       <alias>sechshundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>619</grapheme>
+      <grapheme>619 </grapheme>
       <alias>sechshundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>620</grapheme>
+      <grapheme>620 </grapheme>
       <alias>sechshundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>621</grapheme>
+      <grapheme>621 </grapheme>
       <alias>sechshunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>622</grapheme>
+      <grapheme>622 </grapheme>
       <alias>sechshundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>623</grapheme>
+      <grapheme>623 </grapheme>
       <alias>sechshundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>624</grapheme>
+      <grapheme>624 </grapheme>
       <alias>sechshundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>625</grapheme>
+      <grapheme>625 </grapheme>
       <alias>sechshundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>626</grapheme>
+      <grapheme>626 </grapheme>
       <alias>sechshundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>627</grapheme>
+      <grapheme>627 </grapheme>
       <alias>sechshundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>628</grapheme>
+      <grapheme>628 </grapheme>
       <alias>sechshundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>629</grapheme>
+      <grapheme>629 </grapheme>
       <alias>sechshundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>630</grapheme>
+      <grapheme>630 </grapheme>
       <alias>sechshundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>631</grapheme>
+      <grapheme>631 </grapheme>
       <alias>sechshunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>632</grapheme>
+      <grapheme>632 </grapheme>
       <alias>sechshundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>633</grapheme>
+      <grapheme>633 </grapheme>
       <alias>sechshundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>634</grapheme>
+      <grapheme>634 </grapheme>
       <alias>sechshundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>635</grapheme>
+      <grapheme>635 </grapheme>
       <alias>sechshundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>636</grapheme>
+      <grapheme>636 </grapheme>
       <alias>sechshundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>637</grapheme>
+      <grapheme>637 </grapheme>
       <alias>sechshundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>638</grapheme>
+      <grapheme>638 </grapheme>
       <alias>sechshundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>639</grapheme>
+      <grapheme>639 </grapheme>
       <alias>sechshundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>640</grapheme>
+      <grapheme>640 </grapheme>
       <alias>sechshundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>641</grapheme>
+      <grapheme>641 </grapheme>
       <alias>sechshunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>642</grapheme>
+      <grapheme>642 </grapheme>
       <alias>sechshundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>643</grapheme>
+      <grapheme>643 </grapheme>
       <alias>sechshundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>644</grapheme>
+      <grapheme>644 </grapheme>
       <alias>sechshundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>645</grapheme>
+      <grapheme>645 </grapheme>
       <alias>sechshundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>646</grapheme>
+      <grapheme>646 </grapheme>
       <alias>sechshundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>647</grapheme>
+      <grapheme>647 </grapheme>
       <alias>sechshundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>648</grapheme>
+      <grapheme>648 </grapheme>
       <alias>sechshundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>649</grapheme>
+      <grapheme>649 </grapheme>
       <alias>sechshundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>650</grapheme>
+      <grapheme>650 </grapheme>
       <alias>sechshundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>651</grapheme>
+      <grapheme>651 </grapheme>
       <alias>sechshunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>652</grapheme>
+      <grapheme>652 </grapheme>
       <alias>sechshundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>653</grapheme>
+      <grapheme>653 </grapheme>
       <alias>sechshundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>654</grapheme>
+      <grapheme>654 </grapheme>
       <alias>sechshundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>655</grapheme>
+      <grapheme>655 </grapheme>
       <alias>sechshundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>656</grapheme>
+      <grapheme>656 </grapheme>
       <alias>sechshundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>657</grapheme>
+      <grapheme>657 </grapheme>
       <alias>sechshundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>658</grapheme>
+      <grapheme>658 </grapheme>
       <alias>sechshundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>659</grapheme>
+      <grapheme>659 </grapheme>
       <alias>sechshundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>660</grapheme>
+      <grapheme>660 </grapheme>
       <alias>sechshundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>661</grapheme>
+      <grapheme>661 </grapheme>
       <alias>sechshunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>662</grapheme>
+      <grapheme>662 </grapheme>
       <alias>sechshundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>663</grapheme>
+      <grapheme>663 </grapheme>
       <alias>sechshundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>664</grapheme>
+      <grapheme>664 </grapheme>
       <alias>sechshundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>665</grapheme>
+      <grapheme>665 </grapheme>
       <alias>sechshundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>666</grapheme>
+      <grapheme>666 </grapheme>
       <alias>sechshundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>667</grapheme>
+      <grapheme>667 </grapheme>
       <alias>sechshundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>668</grapheme>
+      <grapheme>668 </grapheme>
       <alias>sechshundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>669</grapheme>
+      <grapheme>669 </grapheme>
       <alias>sechshundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>670</grapheme>
+      <grapheme>670 </grapheme>
       <alias>sechshundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>671</grapheme>
+      <grapheme>671 </grapheme>
       <alias>sechshunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>672</grapheme>
+      <grapheme>672 </grapheme>
       <alias>sechshundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>673</grapheme>
+      <grapheme>673 </grapheme>
       <alias>sechshundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>674</grapheme>
+      <grapheme>674 </grapheme>
       <alias>sechshundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>675</grapheme>
+      <grapheme>675 </grapheme>
       <alias>sechshundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>676</grapheme>
+      <grapheme>676 </grapheme>
       <alias>sechshundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>677</grapheme>
+      <grapheme>677 </grapheme>
       <alias>sechshundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>678</grapheme>
+      <grapheme>678 </grapheme>
       <alias>sechshundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>679</grapheme>
+      <grapheme>679 </grapheme>
       <alias>sechshundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>680</grapheme>
+      <grapheme>680 </grapheme>
       <alias>sechshundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>681</grapheme>
+      <grapheme>681 </grapheme>
       <alias>sechshunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>682</grapheme>
+      <grapheme>682 </grapheme>
       <alias>sechshundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>683</grapheme>
+      <grapheme>683 </grapheme>
       <alias>sechshundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>684</grapheme>
+      <grapheme>684 </grapheme>
       <alias>sechshundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>685</grapheme>
+      <grapheme>685 </grapheme>
       <alias>sechshundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>686</grapheme>
+      <grapheme>686 </grapheme>
       <alias>sechshundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>687</grapheme>
+      <grapheme>687 </grapheme>
       <alias>sechshundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>688</grapheme>
+      <grapheme>688 </grapheme>
       <alias>sechshundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>689</grapheme>
+      <grapheme>689 </grapheme>
       <alias>sechshundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>690</grapheme>
+      <grapheme>690 </grapheme>
       <alias>sechshundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>691</grapheme>
+      <grapheme>691 </grapheme>
       <alias>sechshunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>692</grapheme>
+      <grapheme>692 </grapheme>
       <alias>sechshundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>693</grapheme>
+      <grapheme>693 </grapheme>
       <alias>sechshundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>694</grapheme>
+      <grapheme>694 </grapheme>
       <alias>sechshundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>695</grapheme>
+      <grapheme>695 </grapheme>
       <alias>sechshundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>696</grapheme>
+      <grapheme>696 </grapheme>
       <alias>sechshundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>697</grapheme>
+      <grapheme>697 </grapheme>
       <alias>sechshundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>698</grapheme>
+      <grapheme>698 </grapheme>
       <alias>sechshundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>699</grapheme>
+      <grapheme>699 </grapheme>
       <alias>sechshundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>700</grapheme>
+      <grapheme>700 </grapheme>
       <alias>siebenhundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>701</grapheme>
+      <grapheme>701 </grapheme>
       <alias>siebenhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>702</grapheme>
+      <grapheme>702 </grapheme>
       <alias>siebenhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>703</grapheme>
+      <grapheme>703 </grapheme>
       <alias>siebenhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>704</grapheme>
+      <grapheme>704 </grapheme>
       <alias>siebenhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>705</grapheme>
+      <grapheme>705 </grapheme>
       <alias>siebenhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>706</grapheme>
+      <grapheme>706 </grapheme>
       <alias>siebenhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>707</grapheme>
+      <grapheme>707 </grapheme>
       <alias>siebenhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>708</grapheme>
+      <grapheme>708 </grapheme>
       <alias>siebenhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>709</grapheme>
+      <grapheme>709 </grapheme>
       <alias>siebenhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>710</grapheme>
+      <grapheme>710 </grapheme>
       <alias>siebenhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>711</grapheme>
+      <grapheme>711 </grapheme>
       <alias>siebenhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>712</grapheme>
+      <grapheme>712 </grapheme>
       <alias>siebenhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>713</grapheme>
+      <grapheme>713 </grapheme>
       <alias>siebenhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>714</grapheme>
+      <grapheme>714 </grapheme>
       <alias>siebenhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>715</grapheme>
+      <grapheme>715 </grapheme>
       <alias>siebenhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>716</grapheme>
+      <grapheme>716 </grapheme>
       <alias>siebenhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>717</grapheme>
+      <grapheme>717 </grapheme>
       <alias>siebenhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>718</grapheme>
+      <grapheme>718 </grapheme>
       <alias>siebenhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>719</grapheme>
+      <grapheme>719 </grapheme>
       <alias>siebenhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>720</grapheme>
+      <grapheme>720 </grapheme>
       <alias>siebenhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>721</grapheme>
+      <grapheme>721 </grapheme>
       <alias>siebenhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>722</grapheme>
+      <grapheme>722 </grapheme>
       <alias>siebenhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>723</grapheme>
+      <grapheme>723 </grapheme>
       <alias>siebenhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>724</grapheme>
+      <grapheme>724 </grapheme>
       <alias>siebenhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>725</grapheme>
+      <grapheme>725 </grapheme>
       <alias>siebenhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>726</grapheme>
+      <grapheme>726 </grapheme>
       <alias>siebenhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>727</grapheme>
+      <grapheme>727 </grapheme>
       <alias>siebenhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>728</grapheme>
+      <grapheme>728 </grapheme>
       <alias>siebenhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>729</grapheme>
+      <grapheme>729 </grapheme>
       <alias>siebenhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>730</grapheme>
+      <grapheme>730 </grapheme>
       <alias>siebenhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>731</grapheme>
+      <grapheme>731 </grapheme>
       <alias>siebenhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>732</grapheme>
+      <grapheme>732 </grapheme>
       <alias>siebenhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>733</grapheme>
+      <grapheme>733 </grapheme>
       <alias>siebenhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>734</grapheme>
+      <grapheme>734 </grapheme>
       <alias>siebenhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>735</grapheme>
+      <grapheme>735 </grapheme>
       <alias>siebenhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>736</grapheme>
+      <grapheme>736 </grapheme>
       <alias>siebenhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>737</grapheme>
+      <grapheme>737 </grapheme>
       <alias>siebenhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>738</grapheme>
+      <grapheme>738 </grapheme>
       <alias>siebenhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>739</grapheme>
+      <grapheme>739 </grapheme>
       <alias>siebenhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>740</grapheme>
+      <grapheme>740 </grapheme>
       <alias>siebenhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>741</grapheme>
+      <grapheme>741 </grapheme>
       <alias>siebenhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>742</grapheme>
+      <grapheme>742 </grapheme>
       <alias>siebenhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>743</grapheme>
+      <grapheme>743 </grapheme>
       <alias>siebenhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>744</grapheme>
+      <grapheme>744 </grapheme>
       <alias>siebenhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>745</grapheme>
+      <grapheme>745 </grapheme>
       <alias>siebenhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>746</grapheme>
+      <grapheme>746 </grapheme>
       <alias>siebenhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>747</grapheme>
+      <grapheme>747 </grapheme>
       <alias>siebenhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>748</grapheme>
+      <grapheme>748 </grapheme>
       <alias>siebenhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>749</grapheme>
+      <grapheme>749 </grapheme>
       <alias>siebenhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>750</grapheme>
+      <grapheme>750 </grapheme>
       <alias>siebenhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>751</grapheme>
+      <grapheme>751 </grapheme>
       <alias>siebenhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>752</grapheme>
+      <grapheme>752 </grapheme>
       <alias>siebenhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>753</grapheme>
+      <grapheme>753 </grapheme>
       <alias>siebenhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>754</grapheme>
+      <grapheme>754 </grapheme>
       <alias>siebenhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>755</grapheme>
+      <grapheme>755 </grapheme>
       <alias>siebenhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>756</grapheme>
+      <grapheme>756 </grapheme>
       <alias>siebenhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>757</grapheme>
+      <grapheme>757 </grapheme>
       <alias>siebenhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>758</grapheme>
+      <grapheme>758 </grapheme>
       <alias>siebenhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>759</grapheme>
+      <grapheme>759 </grapheme>
       <alias>siebenhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>760</grapheme>
+      <grapheme>760 </grapheme>
       <alias>siebenhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>761</grapheme>
+      <grapheme>761 </grapheme>
       <alias>siebenhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>762</grapheme>
+      <grapheme>762 </grapheme>
       <alias>siebenhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>763</grapheme>
+      <grapheme>763 </grapheme>
       <alias>siebenhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>764</grapheme>
+      <grapheme>764 </grapheme>
       <alias>siebenhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>765</grapheme>
+      <grapheme>765 </grapheme>
       <alias>siebenhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>766</grapheme>
+      <grapheme>766 </grapheme>
       <alias>siebenhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>767</grapheme>
+      <grapheme>767 </grapheme>
       <alias>siebenhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>768</grapheme>
+      <grapheme>768 </grapheme>
       <alias>siebenhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>769</grapheme>
+      <grapheme>769 </grapheme>
       <alias>siebenhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>770</grapheme>
+      <grapheme>770 </grapheme>
       <alias>siebenhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>771</grapheme>
+      <grapheme>771 </grapheme>
       <alias>siebenhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>772</grapheme>
+      <grapheme>772 </grapheme>
       <alias>siebenhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>773</grapheme>
+      <grapheme>773 </grapheme>
       <alias>siebenhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>774</grapheme>
+      <grapheme>774 </grapheme>
       <alias>siebenhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>775</grapheme>
+      <grapheme>775 </grapheme>
       <alias>siebenhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>776</grapheme>
+      <grapheme>776 </grapheme>
       <alias>siebenhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>777</grapheme>
+      <grapheme>777 </grapheme>
       <alias>siebenhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>778</grapheme>
+      <grapheme>778 </grapheme>
       <alias>siebenhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>779</grapheme>
+      <grapheme>779 </grapheme>
       <alias>siebenhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>780</grapheme>
+      <grapheme>780 </grapheme>
       <alias>siebenhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>781</grapheme>
+      <grapheme>781 </grapheme>
       <alias>siebenhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>782</grapheme>
+      <grapheme>782 </grapheme>
       <alias>siebenhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>783</grapheme>
+      <grapheme>783 </grapheme>
       <alias>siebenhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>784</grapheme>
+      <grapheme>784 </grapheme>
       <alias>siebenhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>785</grapheme>
+      <grapheme>785 </grapheme>
       <alias>siebenhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>786</grapheme>
+      <grapheme>786 </grapheme>
       <alias>siebenhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>787</grapheme>
+      <grapheme>787 </grapheme>
       <alias>siebenhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>788</grapheme>
+      <grapheme>788 </grapheme>
       <alias>siebenhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>789</grapheme>
+      <grapheme>789 </grapheme>
       <alias>siebenhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>790</grapheme>
+      <grapheme>790 </grapheme>
       <alias>siebenhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>791</grapheme>
+      <grapheme>791 </grapheme>
       <alias>siebenhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>792</grapheme>
+      <grapheme>792 </grapheme>
       <alias>siebenhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>793</grapheme>
+      <grapheme>793 </grapheme>
       <alias>siebenhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>794</grapheme>
+      <grapheme>794 </grapheme>
       <alias>siebenhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>795</grapheme>
+      <grapheme>795 </grapheme>
       <alias>siebenhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>796</grapheme>
+      <grapheme>796 </grapheme>
       <alias>siebenhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>797</grapheme>
+      <grapheme>797 </grapheme>
       <alias>siebenhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>798</grapheme>
+      <grapheme>798 </grapheme>
       <alias>siebenhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>799</grapheme>
+      <grapheme>799 </grapheme>
       <alias>siebenhundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>800</grapheme>
+      <grapheme>800 </grapheme>
       <alias>achthundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>801</grapheme>
+      <grapheme>801 </grapheme>
       <alias>achthunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>802</grapheme>
+      <grapheme>802 </grapheme>
       <alias>achthundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>803</grapheme>
+      <grapheme>803 </grapheme>
       <alias>achthundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>804</grapheme>
+      <grapheme>804 </grapheme>
       <alias>achthundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>805</grapheme>
+      <grapheme>805 </grapheme>
       <alias>achthundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>806</grapheme>
+      <grapheme>806 </grapheme>
       <alias>achthundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>807</grapheme>
+      <grapheme>807 </grapheme>
       <alias>achthundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>808</grapheme>
+      <grapheme>808 </grapheme>
       <alias>achthundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>809</grapheme>
+      <grapheme>809 </grapheme>
       <alias>achthundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>810</grapheme>
+      <grapheme>810 </grapheme>
       <alias>achthundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>811</grapheme>
+      <grapheme>811 </grapheme>
       <alias>achthundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>812</grapheme>
+      <grapheme>812 </grapheme>
       <alias>achthundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>813</grapheme>
+      <grapheme>813 </grapheme>
       <alias>achthundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>814</grapheme>
+      <grapheme>814 </grapheme>
       <alias>achthundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>815</grapheme>
+      <grapheme>815 </grapheme>
       <alias>achthundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>816</grapheme>
+      <grapheme>816 </grapheme>
       <alias>achthundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>817</grapheme>
+      <grapheme>817 </grapheme>
       <alias>achthundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>818</grapheme>
+      <grapheme>818 </grapheme>
       <alias>achthundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>819</grapheme>
+      <grapheme>819 </grapheme>
       <alias>achthundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>820</grapheme>
+      <grapheme>820 </grapheme>
       <alias>achthundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>821</grapheme>
+      <grapheme>821 </grapheme>
       <alias>achthunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>822</grapheme>
+      <grapheme>822 </grapheme>
       <alias>achthundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>823</grapheme>
+      <grapheme>823 </grapheme>
       <alias>achthundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>824</grapheme>
+      <grapheme>824 </grapheme>
       <alias>achthundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>825</grapheme>
+      <grapheme>825 </grapheme>
       <alias>achthundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>826</grapheme>
+      <grapheme>826 </grapheme>
       <alias>achthundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>827</grapheme>
+      <grapheme>827 </grapheme>
       <alias>achthundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>828</grapheme>
+      <grapheme>828 </grapheme>
       <alias>achthundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>829</grapheme>
+      <grapheme>829 </grapheme>
       <alias>achthundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>830</grapheme>
+      <grapheme>830 </grapheme>
       <alias>achthundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>831</grapheme>
+      <grapheme>831 </grapheme>
       <alias>achthunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>832</grapheme>
+      <grapheme>832 </grapheme>
       <alias>achthundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>833</grapheme>
+      <grapheme>833 </grapheme>
       <alias>achthundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>834</grapheme>
+      <grapheme>834 </grapheme>
       <alias>achthundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>835</grapheme>
+      <grapheme>835 </grapheme>
       <alias>achthundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>836</grapheme>
+      <grapheme>836 </grapheme>
       <alias>achthundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>837</grapheme>
+      <grapheme>837 </grapheme>
       <alias>achthundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>838</grapheme>
+      <grapheme>838 </grapheme>
       <alias>achthundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>839</grapheme>
+      <grapheme>839 </grapheme>
       <alias>achthundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>840</grapheme>
+      <grapheme>840 </grapheme>
       <alias>achthundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>841</grapheme>
+      <grapheme>841 </grapheme>
       <alias>achthunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>842</grapheme>
+      <grapheme>842 </grapheme>
       <alias>achthundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>843</grapheme>
+      <grapheme>843 </grapheme>
       <alias>achthundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>844</grapheme>
+      <grapheme>844 </grapheme>
       <alias>achthundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>845</grapheme>
+      <grapheme>845 </grapheme>
       <alias>achthundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>846</grapheme>
+      <grapheme>846 </grapheme>
       <alias>achthundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>847</grapheme>
+      <grapheme>847 </grapheme>
       <alias>achthundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>848</grapheme>
+      <grapheme>848 </grapheme>
       <alias>achthundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>849</grapheme>
+      <grapheme>849 </grapheme>
       <alias>achthundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>850</grapheme>
+      <grapheme>850 </grapheme>
       <alias>achthundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>851</grapheme>
+      <grapheme>851 </grapheme>
       <alias>achthunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>852</grapheme>
+      <grapheme>852 </grapheme>
       <alias>achthundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>853</grapheme>
+      <grapheme>853 </grapheme>
       <alias>achthundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>854</grapheme>
+      <grapheme>854 </grapheme>
       <alias>achthundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>855</grapheme>
+      <grapheme>855 </grapheme>
       <alias>achthundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>856</grapheme>
+      <grapheme>856 </grapheme>
       <alias>achthundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>857</grapheme>
+      <grapheme>857 </grapheme>
       <alias>achthundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>858</grapheme>
+      <grapheme>858 </grapheme>
       <alias>achthundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>859</grapheme>
+      <grapheme>859 </grapheme>
       <alias>achthundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>860</grapheme>
+      <grapheme>860 </grapheme>
       <alias>achthundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>861</grapheme>
+      <grapheme>861 </grapheme>
       <alias>achthunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>862</grapheme>
+      <grapheme>862 </grapheme>
       <alias>achthundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>863</grapheme>
+      <grapheme>863 </grapheme>
       <alias>achthundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>864</grapheme>
+      <grapheme>864 </grapheme>
       <alias>achthundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>865</grapheme>
+      <grapheme>865 </grapheme>
       <alias>achthundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>866</grapheme>
+      <grapheme>866 </grapheme>
       <alias>achthundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>867</grapheme>
+      <grapheme>867 </grapheme>
       <alias>achthundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>868</grapheme>
+      <grapheme>868 </grapheme>
       <alias>achthundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>869</grapheme>
+      <grapheme>869 </grapheme>
       <alias>achthundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>870</grapheme>
+      <grapheme>870 </grapheme>
       <alias>achthundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>871</grapheme>
+      <grapheme>871 </grapheme>
       <alias>achthunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>872</grapheme>
+      <grapheme>872 </grapheme>
       <alias>achthundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>873</grapheme>
+      <grapheme>873 </grapheme>
       <alias>achthundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>874</grapheme>
+      <grapheme>874 </grapheme>
       <alias>achthundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>875</grapheme>
+      <grapheme>875 </grapheme>
       <alias>achthundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>876</grapheme>
+      <grapheme>876 </grapheme>
       <alias>achthundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>877</grapheme>
+      <grapheme>877 </grapheme>
       <alias>achthundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>878</grapheme>
+      <grapheme>878 </grapheme>
       <alias>achthundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>879</grapheme>
+      <grapheme>879 </grapheme>
       <alias>achthundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>880</grapheme>
+      <grapheme>880 </grapheme>
       <alias>achthundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>881</grapheme>
+      <grapheme>881 </grapheme>
       <alias>achthunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>882</grapheme>
+      <grapheme>882 </grapheme>
       <alias>achthundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>883</grapheme>
+      <grapheme>883 </grapheme>
       <alias>achthundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>884</grapheme>
+      <grapheme>884 </grapheme>
       <alias>achthundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>885</grapheme>
+      <grapheme>885 </grapheme>
       <alias>achthundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>886</grapheme>
+      <grapheme>886 </grapheme>
       <alias>achthundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>887</grapheme>
+      <grapheme>887 </grapheme>
       <alias>achthundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>888</grapheme>
+      <grapheme>888 </grapheme>
       <alias>achthundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>889</grapheme>
+      <grapheme>889 </grapheme>
       <alias>achthundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>890</grapheme>
+      <grapheme>890 </grapheme>
       <alias>achthundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>891</grapheme>
+      <grapheme>891 </grapheme>
       <alias>achthunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>892</grapheme>
+      <grapheme>892 </grapheme>
       <alias>achthundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>893</grapheme>
+      <grapheme>893 </grapheme>
       <alias>achthundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>894</grapheme>
+      <grapheme>894 </grapheme>
       <alias>achthundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>895</grapheme>
+      <grapheme>895 </grapheme>
       <alias>achthundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>896</grapheme>
+      <grapheme>896 </grapheme>
       <alias>achthundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>897</grapheme>
+      <grapheme>897 </grapheme>
       <alias>achthundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>898</grapheme>
+      <grapheme>898 </grapheme>
       <alias>achthundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>899</grapheme>
+      <grapheme>899 </grapheme>
       <alias>achthundertneunundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>900</grapheme>
+      <grapheme>900 </grapheme>
       <alias>neunhundert</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>901</grapheme>
+      <grapheme>901 </grapheme>
       <alias>neunhunderteins</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>902</grapheme>
+      <grapheme>902 </grapheme>
       <alias>neunhundertzwei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>903</grapheme>
+      <grapheme>903 </grapheme>
       <alias>neunhundertdrei</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>904</grapheme>
+      <grapheme>904 </grapheme>
       <alias>neunhundertvier</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>905</grapheme>
+      <grapheme>905 </grapheme>
       <alias>neunhundertfünf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>906</grapheme>
+      <grapheme>906 </grapheme>
       <alias>neunhundertsechs</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>907</grapheme>
+      <grapheme>907 </grapheme>
       <alias>neunhundertsieben</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>908</grapheme>
+      <grapheme>908 </grapheme>
       <alias>neunhundertacht</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>909</grapheme>
+      <grapheme>909 </grapheme>
       <alias>neunhundertneun</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>910</grapheme>
+      <grapheme>910 </grapheme>
       <alias>neunhundertzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>911</grapheme>
+      <grapheme>911 </grapheme>
       <alias>neunhundertelf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>912</grapheme>
+      <grapheme>912 </grapheme>
       <alias>neunhundertzwölf</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>913</grapheme>
+      <grapheme>913 </grapheme>
       <alias>neunhundertdreizehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>914</grapheme>
+      <grapheme>914 </grapheme>
       <alias>neunhundertvierzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>915</grapheme>
+      <grapheme>915 </grapheme>
       <alias>neunhundertfünfzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>916</grapheme>
+      <grapheme>916 </grapheme>
       <alias>neunhundertsechzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>917</grapheme>
+      <grapheme>917 </grapheme>
       <alias>neunhundertsiebzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>918</grapheme>
+      <grapheme>918 </grapheme>
       <alias>neunhundertachtzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>919</grapheme>
+      <grapheme>919 </grapheme>
       <alias>neunhundertneunzehn</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>920</grapheme>
+      <grapheme>920 </grapheme>
       <alias>neunhundertzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>921</grapheme>
+      <grapheme>921 </grapheme>
       <alias>neunhunderteinundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>922</grapheme>
+      <grapheme>922 </grapheme>
       <alias>neunhundertzweiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>923</grapheme>
+      <grapheme>923 </grapheme>
       <alias>neunhundertdreiundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>924</grapheme>
+      <grapheme>924 </grapheme>
       <alias>neunhundertvierundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>925</grapheme>
+      <grapheme>925 </grapheme>
       <alias>neunhundertfünfundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>926</grapheme>
+      <grapheme>926 </grapheme>
       <alias>neunhundertsechsundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>927</grapheme>
+      <grapheme>927 </grapheme>
       <alias>neunhundertsiebenundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>928</grapheme>
+      <grapheme>928 </grapheme>
       <alias>neunhundertachtundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>929</grapheme>
+      <grapheme>929 </grapheme>
       <alias>neunhundertneunundzwanzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>930</grapheme>
+      <grapheme>930 </grapheme>
       <alias>neunhundertdreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>931</grapheme>
+      <grapheme>931 </grapheme>
       <alias>neunhunderteinunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>932</grapheme>
+      <grapheme>932 </grapheme>
       <alias>neunhundertzweiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>933</grapheme>
+      <grapheme>933 </grapheme>
       <alias>neunhundertdreiunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>934</grapheme>
+      <grapheme>934 </grapheme>
       <alias>neunhundertvierunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>935</grapheme>
+      <grapheme>935 </grapheme>
       <alias>neunhundertfünfunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>936</grapheme>
+      <grapheme>936 </grapheme>
       <alias>neunhundertsechsunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>937</grapheme>
+      <grapheme>937 </grapheme>
       <alias>neunhundertsiebenunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>938</grapheme>
+      <grapheme>938 </grapheme>
       <alias>neunhundertachtunddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>939</grapheme>
+      <grapheme>939 </grapheme>
       <alias>neunhundertneununddreißig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>940</grapheme>
+      <grapheme>940 </grapheme>
       <alias>neunhundertvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>941</grapheme>
+      <grapheme>941 </grapheme>
       <alias>neunhunderteinundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>942</grapheme>
+      <grapheme>942 </grapheme>
       <alias>neunhundertzweiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>943</grapheme>
+      <grapheme>943 </grapheme>
       <alias>neunhundertdreiundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>944</grapheme>
+      <grapheme>944 </grapheme>
       <alias>neunhundertvierundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>945</grapheme>
+      <grapheme>945 </grapheme>
       <alias>neunhundertfünfundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>946</grapheme>
+      <grapheme>946 </grapheme>
       <alias>neunhundertsechsundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>947</grapheme>
+      <grapheme>947 </grapheme>
       <alias>neunhundertsiebenundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>948</grapheme>
+      <grapheme>948 </grapheme>
       <alias>neunhundertachtundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>949</grapheme>
+      <grapheme>949 </grapheme>
       <alias>neunhundertneunundvierzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>950</grapheme>
+      <grapheme>950 </grapheme>
       <alias>neunhundertfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>951</grapheme>
+      <grapheme>951 </grapheme>
       <alias>neunhunderteinundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>952</grapheme>
+      <grapheme>952 </grapheme>
       <alias>neunhundertzweiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>953</grapheme>
+      <grapheme>953 </grapheme>
       <alias>neunhundertdreiundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>954</grapheme>
+      <grapheme>954 </grapheme>
       <alias>neunhundertvierundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>955</grapheme>
+      <grapheme>955 </grapheme>
       <alias>neunhundertfünfundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>956</grapheme>
+      <grapheme>956 </grapheme>
       <alias>neunhundertsechsundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>957</grapheme>
+      <grapheme>957 </grapheme>
       <alias>neunhundertsiebenundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>958</grapheme>
+      <grapheme>958 </grapheme>
       <alias>neunhundertachtundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>959</grapheme>
+      <grapheme>959 </grapheme>
       <alias>neunhundertneunundfünfzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>960</grapheme>
+      <grapheme>960 </grapheme>
       <alias>neunhundertsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>961</grapheme>
+      <grapheme>961 </grapheme>
       <alias>neunhunderteinundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>962</grapheme>
+      <grapheme>962 </grapheme>
       <alias>neunhundertzweiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>963</grapheme>
+      <grapheme>963 </grapheme>
       <alias>neunhundertdreiundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>964</grapheme>
+      <grapheme>964 </grapheme>
       <alias>neunhundertvierundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>965</grapheme>
+      <grapheme>965 </grapheme>
       <alias>neunhundertfünfundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>966</grapheme>
+      <grapheme>966 </grapheme>
       <alias>neunhundertsechsundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>967</grapheme>
+      <grapheme>967 </grapheme>
       <alias>neunhundertsiebenundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>968</grapheme>
+      <grapheme>968 </grapheme>
       <alias>neunhundertachtundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>969</grapheme>
+      <grapheme>969 </grapheme>
       <alias>neunhundertneunundsechzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>970</grapheme>
+      <grapheme>970 </grapheme>
       <alias>neunhundertsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>971</grapheme>
+      <grapheme>971 </grapheme>
       <alias>neunhunderteinundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>972</grapheme>
+      <grapheme>972 </grapheme>
       <alias>neunhundertzweiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>973</grapheme>
+      <grapheme>973 </grapheme>
       <alias>neunhundertdreiundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>974</grapheme>
+      <grapheme>974 </grapheme>
       <alias>neunhundertvierundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>975</grapheme>
+      <grapheme>975 </grapheme>
       <alias>neunhundertfünfundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>976</grapheme>
+      <grapheme>976 </grapheme>
       <alias>neunhundertsechsundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>977</grapheme>
+      <grapheme>977 </grapheme>
       <alias>neunhundertsiebenundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>978</grapheme>
+      <grapheme>978 </grapheme>
       <alias>neunhundertachtundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>979</grapheme>
+      <grapheme>979 </grapheme>
       <alias>neunhundertneunundsiebzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>980</grapheme>
+      <grapheme>980 </grapheme>
       <alias>neunhundertachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>981</grapheme>
+      <grapheme>981 </grapheme>
       <alias>neunhunderteinundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>982</grapheme>
+      <grapheme>982 </grapheme>
       <alias>neunhundertzweiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>983</grapheme>
+      <grapheme>983 </grapheme>
       <alias>neunhundertdreiundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>984</grapheme>
+      <grapheme>984 </grapheme>
       <alias>neunhundertvierundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>985</grapheme>
+      <grapheme>985 </grapheme>
       <alias>neunhundertfünfundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>986</grapheme>
+      <grapheme>986 </grapheme>
       <alias>neunhundertsechsundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>987</grapheme>
+      <grapheme>987 </grapheme>
       <alias>neunhundertsiebenundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>988</grapheme>
+      <grapheme>988 </grapheme>
       <alias>neunhundertachtundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>989</grapheme>
+      <grapheme>989 </grapheme>
       <alias>neunhundertneunundachtzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>990</grapheme>
+      <grapheme>990 </grapheme>
       <alias>neunhundertneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>991</grapheme>
+      <grapheme>991 </grapheme>
       <alias>neunhunderteinundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>992</grapheme>
+      <grapheme>992 </grapheme>
       <alias>neunhundertzweiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>993</grapheme>
+      <grapheme>993 </grapheme>
       <alias>neunhundertdreiundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>994</grapheme>
+      <grapheme>994 </grapheme>
       <alias>neunhundertvierundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>995</grapheme>
+      <grapheme>995 </grapheme>
       <alias>neunhundertfünfundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>996</grapheme>
+      <grapheme>996 </grapheme>
       <alias>neunhundertsechsundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>997</grapheme>
+      <grapheme>997 </grapheme>
       <alias>neunhundertsiebenundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>998</grapheme>
+      <grapheme>998 </grapheme>
       <alias>neunhundertachtundneunzig</alias>
       </lexeme>
       
       <lexeme>
-      <grapheme>999</grapheme>
+      <grapheme>999 </grapheme>
       <alias>neunhundertneunundneunzig</alias>
       </lexeme>
       

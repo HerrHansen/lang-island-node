@@ -14,18 +14,6 @@ function createLang(lang: Lang) {
 `;
   let graphemeNumber = 100;
 
-  // Loop through nths
-  for (let nthIndex = 0; nthIndex < lang.nths.length; nthIndex++) {
-    let grapheme = `${nthIndex + 1}.`;
-    let alias = lang.nths[nthIndex];
-    fileContent += `
-      <lexeme>
-      <grapheme>${grapheme}</grapheme>
-      <alias>${alias}</alias>
-      </lexeme>
-      `;
-  }
-
   // Loop through the others
   for (let otherIndex = 0; otherIndex < lang.others.length; otherIndex++) {
     let alias = lang.others[otherIndex].alias;
@@ -54,13 +42,15 @@ function createLang(lang: Lang) {
       // Loop through the digits
       for (let digitIndex = 0; digitIndex < lang.digits.length; digitIndex++) {
         let alias = aliasHundreds;
-        if (digitIndex > 0) {
+        if (digitIndex === 0) {
+          alias = lang.digits[digitIndex];
+        } else if (digitIndex > 0) {
           alias += lang.digits[digitIndex];
         }
 
         fileContent += `
       <lexeme>
-      <grapheme>${graphemeIndex}</grapheme>
+      <grapheme>${graphemeIndex + " "}</grapheme>
       <alias>${alias}</alias>
       </lexeme>
       `;
@@ -83,7 +73,7 @@ function createLang(lang: Lang) {
       alias += lang.dates[dateIndex];
       fileContent += `
       <lexeme>
-      <grapheme>${graphemeNumber}</grapheme>
+      <grapheme>${graphemeNumber + " "}</grapheme>
       <alias>${alias}</alias>
       </lexeme>
       `;
